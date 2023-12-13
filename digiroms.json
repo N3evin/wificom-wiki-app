@@ -5,32 +5,61 @@
 		{
 			"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
 			"name": "Get Blitz Greymon",
-			"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
 		},
 		"cres_garurumon":
 		{
 			"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
 			"name": "Get Cres Garurumon",
-			"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
 		},
 		"agisdramon":
 		{
 			"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
 			"name": "Get Aegisdramon",
-			"image_url": "https://humulos.com/digimon/images/dot/dm20/aegisdra.gif"
+			"image_url": "hhttps://humulos.com/digimon/images/dot/penc/aegisdra.gif"
 		},
 		"mugendramon":
 		{
 			"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
 			"name": "Get Mugendramon",
-			"image_url": "https://humulos.com/digimon/images/dot/dm20/mugendra.gif"
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/mugendra.gif"
 		},
 		"slayerdramon":
 		{
 			"code": "V1-0C13-1901-814E-17CE-000E-000E-000E-000E-000E-@000E",
 			"name": "Get Slayerdramon",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/slayerdra.gif"
-		}
+		},
+		"breakdramon":{
+			"code": "VV1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Breakdramon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/breakdra.gif"
+		},
+		"apollomon":
+		{
+			"code": "VV1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Apollomon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/apollo.gif"
+		},
+		"dianamon":
+		{
+			"code": "V1-0904-0E01-813E-1B1E-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Dianamon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/diana.gif"
+		},
+		"wargreymon":
+		{
+			"code": "VV1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
+			"name": "Get War Greymon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/wargrey.gif"
+		},
+		"metalgarurumon":
+		{
+			"code": "VV1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Meta Garurumon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/metalgaruru.gif"
+		},
 	}
 
 }
