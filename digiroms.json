@@ -35,13 +35,13 @@
 			},
 			"breakdramon":
 			{
-				"code": "VV1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
+				"code": "V1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Breakdramon",
 				"image_url": "https://humulos.com/digimon/images/dot/dm20/breakdra.gif"
 			},
 			"apollomon":
 			{
-				"code": "VV1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
+				"code": "V1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Apollomon",
 				"image_url": "https://humulos.com/digimon/images/dot/dm20/apollo.gif"
 			},
@@ -53,13 +53,13 @@
 			},
 			"wargreymon":
 			{
-				"code": "VV1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
+				"code": "V1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
 				"name": "Get War Greymon",
 				"image_url": "https://humulos.com/digimon/images/dot/dm20/wargrey.gif"
 			},
 			"metalgarurumon":
 			{
-				"code": "VV1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
+				"code": "V1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Meta Garurumon",
 				"image_url": "https://humulos.com/digimon/images/dot/dm20/metalgaruru.gif"
 			}
@@ -71,7 +71,7 @@
 		{
 			"blitz_greymon":
 			{
-				"code": "VC1-47444C4300000000000E00AA00019440-47444C43000200000000000000009389",
+				"code": "C1-47444C4300000000000E00AA00019440-47444C43000200000000000000009389",
 				"name": "Battle vs Ver.1 BlitzGreymon",
 				"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
 			},
@@ -89,13 +89,13 @@
 			},
 			"childv4":
 			{
-				"code": "VC1-47444C43000000030002001E000393AD-47444C43000200000000000000009389",
+				"code": "C1-47444C43000000030002001E000393AD-47444C43000200000000000000009389",
 				"name": "Battle vs Ver.4 Child",
 				"image_url": "https://humulos.com/digimon/images/dot/dmc/piyo.gif"
 			},
 			"childv5":
 			{
-				"code": "VC1-47444C43000000040002001E000393AE-47444C43000200000000000000009389",
+				"code": "C1-47444C43000000040002001E000393AE-47444C43000200000000000000009389",
 				"name": "Battle vs Ver.5 Child",
 				"image_url": "https://humulos.com/digimon/images/dot/dmc/gazi.gif"
 			}
