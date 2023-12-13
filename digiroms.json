@@ -300,12 +300,6 @@
 				"name": "Copymon for Jogressing Piemon into Voltobautamon",
 				"image_url": "https://humulos.com/digimon/images/dot/pen20/vamde.gif"
 			},
-			"":
-			{
-				"code": "",
-				"name": "",
-				"image_url": ""
-			},
 			"piemon":
 			{
 				"code": "V1-0101-0101-816E-116E-000E-000E-000E-000E-000E-@000E",
@@ -408,7 +402,7 @@
 			"terriermon":
 			{
 				"code": "V1-006E-2D4E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
-				"name": "EUnlock the Lala Digitama on Dukemon Color / Beelzebumon Color",
+				"name": "Unlock the Lala Digitama on Dukemon Color / Beelzebumon Color",
 				"image_url": "https://humulos.com/digimon/images/dot/pen20/terrier.gif"
 			},
 			"agumonh":
