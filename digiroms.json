@@ -7,25 +7,25 @@
 			{
 				"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Blitz Greymon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
+				"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
 			},
 			"cres_garurumon":
 			{
 				"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Cres Garurumon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
+				"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
 			},
 			"agisdramon":
 			{
 				"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Aegisdramon",
-				"image_url": "https://humulos.com/digimon/images/dot/penc/aegisdra.gif"
+				"image_url": "https://humulos.com/digimon/images/dot/dm20/aegisdra.gif"
 			},
 			"mugendramon":
 			{
 				"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
 				"name": "Get Mugendramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/mugendra.gif"
+				"image_url": "https://humulos.com/digimon/images/dot/dm20/mugendra.gif"
 			},
 			"slayerdramon":
 			{
@@ -175,9 +175,59 @@
 	},
 	"dmx":
 	{
-		"xbattle":
+		"connect":
 		{
-
+			"agumonx":
+			{
+				"code": "V1-800E-218E-483E-142E-010E-@800E",
+				"name": "Connection to a DMX1 Black",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/agu_x.gif"
+			},
+			"gabumonx":
+			{
+				"code": "V1-801E-20DE-943E-143E-010E-@800E",
+				"name": "Connection to a DMX1 White",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/gabu_x.gif"
+			},
+			"agumonblackx":
+			{
+				"code": "V1-802E-20AE-003E-143E-016E-@800E",
+				"name": "Connection to a DMX2 Red",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/agu_b_x.gif"
+			},
+			"impmonx":
+			{
+				"code": "V1-803E-21EE-025E-14FE-016E-@800E",
+				"name": "Connection to a DMX2 Purple",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/imp_x.gif"
+			},
+			"terriermonx":
+			{
+				"code": "V1-804E-218E-952E-143E-014E-@800E",
+				"name": "Connection to a DMX3 Yellow",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/terrier_x.gif"
+			},
+			"lopmonx":
+			{
+				"code": "V1-805E-225E-592E-143E-014E-@800E",
+				"name": "Connection to a DMX3 Blue",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/lop_x.gif"
+			}
+		},
+		"jogress":
+		{
+			"gankoomonx":
+			{
+				"code": "V1-804E-AF5E-122E-28AE-0D0E-@800E",
+				"name": "Jogress Jesmon X into Jesmon GX",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/gankoo_x.gif"
+			},
+			"jesmonx":
+			{
+				"code": "V1-805E-B19E-324E-287E-0BEE-@800E",
+				"name": "Jogress Gankoomon X into Jesmon GX",
+				"image_url": "https://humulos.com/digimon/images/dot/dmx/jes_x.gif"
+			}
 		}
 	}
 
