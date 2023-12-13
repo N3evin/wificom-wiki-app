@@ -99,6 +99,85 @@
 				"name": "Battle vs Ver.5 Child",
 				"image_url": "https://humulos.com/digimon/images/dot/dmc/gazi.gif"
 			}
+		},
+		"unlock":
+		{
+			"grasslandbg":
+			{
+				"code": "C1-47444C4300000000000B007300019406-47444C4300020002000000000000938B",
+				"name": "Unlock Grasslands Background",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/metalgrey_vi.gif"
+			},
+			"desertbg":
+			{
+				"code": "C1-47444C4300000001000C007300019408-47444C4300020002000000000000938B",
+				"name": "Unlock Desert Background",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/metalmame.gif"
+			},
+			"forestbg":
+			{
+				"code": "C1-47444C4300000002000B007300019408-47444C4300020002000000000000938B",
+				"name": "Unlock Forest Background",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/andro.gif"
+			},
+			"mountainsbg":
+			{
+				"code": "C1-47444C4300000003000B007300019409-47444C4300020002000000000000938B",
+				"name": "Unlock Mountains Background",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/megadra.gif"
+			},
+			"beachbg":
+			{
+				"code": "C1-47444C4300000004000B00730001940A-47444C4300020002000000000000938B",
+				"name": "Unlock Beach Background",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/metaltyrano.gif"
+			}
+		},
+		"jogress":
+		{
+			"blitz_greymon":
+			{
+				"code": "C1-47444C4300000000000E00AA00019440-47444C430002003000000000000093B9",
+				"name": "Jogress Cres Garurumon into Omegamon Alter-S",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
+			},
+			"cres_garurumon":
+			{
+				"code": "C1-47444C4300000001000F00730001940B-47444C4300020002000000000000938B",
+				"name": "Jogress Blitz Greymon into Omegamon Alter-S",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
+			},
+			"chimairamon":
+			{
+				"code": "C1-47444C4300000002000E00730002940C-47444C4300020011000000000000939A",
+				"name": "Jogress Mugendramon into Millenniumon",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/chimaira.gif"
+			},
+			"bancholeomon":
+			{
+				"code": "C1-47444C4300000002001100B400039451-47444C4300020006000000000000938F",
+				"name": "Jogress Darkdramon into Chaosmon",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/bancholeo.gif"
+			},
+			"darkdramon":
+			{
+				"code": "C1-47444C4300000003000E00AA00019443-47444C430002006900000000000093F2",
+				"name": "Jogress Bancho Leomon into Chaosmon; Mugendramon into Chaosdramon",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/darkdra.gif"
+			},
+			"mugendramon":
+			{
+				"code": "C1-47444C4300000004000E00AA00019444-47444C430002001E00000000000093A7",
+				"name": "Jogress Chimairamon into Millenniumon; Darkdramon into Chaosdramon",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/mugendra.gif"
+			}
+		}
+	},
+	"dmx":
+	{
+		"xbattle":
+		{
+
 		}
 	}
 
