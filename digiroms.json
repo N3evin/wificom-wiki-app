@@ -1,12 +1,36 @@
 {
-	"dm20_blitz_greymon": {
-		"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
-		"name": "Get Blitz Greymon",
-		"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
-	},
-	"dm20_cres_garurumon": {
-		"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
-		"name": "Get Cres Garurumon",
-		"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
+	"dm20":
+	{
+		"blitz_greymon":
+		{
+			"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Blitz Greymon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
+		},
+		"cres_garurumon":
+		{
+			"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Cres Garurumon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
+		},
+		"agisdramon":
+		{
+			"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Aegisdramon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/aegisdra.gif"
+		},
+		"mugendramon":
+		{
+			"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Mugendramon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/mugendra.gif"
+		},
+		"slayerdramon":
+		{
+			"code": "V1-0C13-1901-814E-17CE-000E-000E-000E-000E-000E-@000E",
+			"name": "Get Slayerdramon",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/slayerdra.gif"
+		}
 	}
+
 }
