@@ -463,6 +463,34 @@
 			"image_url": "https://humulos.com/digimon/images/dot/pen20/metalgaruru.gif"
 		}]
 	},
+	"pencycle":
+	{
+		"jogress": [
+		{
+			"code": "V2-6231-7070",
+			"line1": "Garurumon (Vaccine)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/garuru.gif"
+		},
+		{
+			"code": "V2-9261-9081",
+			"line1": "Meramon (Data)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/mera.gif"
+		},
+		{
+			"code": "V2-7241-C0A2",
+			"line1": "Devimon (Virus)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/devi.gif"
+		}]
+	},
 	"pen20":
 	{
 		"copymon": [
@@ -911,6 +939,170 @@
 			"line3": "",
 			"line4": "",
 			"image_url": "https://humulos.com/digimon/images/dot/penz/imperialdra_f.gif"
+		}]
+	},
+	"progress":
+	{
+		"jogress": [
+		{
+			"code": "V2-81A1-EA51",
+			"line1": "Jogress Tyranomon to Palidramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/01/Paildramon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-81A1-EA51",
+			"line1": "Jogress Angemon to Angewomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/5/50/Angewomon_vpet_dv.gif"
+		},
+		{
+			"code": "V2-81A1-EA51",
+			"line1": "Jogress Dobermon to Mihiramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/3/3b/Mihiramon_vpet_darc.gif"
+		},
+		{
+			"code": "V2-81B1-1A11",
+			"line1": "Jogress XV-Mon to Megadramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/1/1b/Megadramon_vpet_dv.gif"
+		},
+		{
+			"code": "V2-81B1-1A11",
+			"line1": "Jogress Witchmon to Andiramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/06/Andiramon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-81B1-1A11",
+			"line1": "Jogress Aquilamon to Cerberumon (X-Antibody)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/6/6a/Cerberumonx_vpet_penp.gif"
+		},
+		{
+			"code": "V2-01A1-AA1F",
+			"line1": "Jogress XV-Mon to Paildramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/01/Paildramon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-01B1-5A5F",
+			"line1": "Jogress Tyrannomon to Megadramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/1/1b/Megadramon_vpet_dv.gif"
+		},
+		{
+			"code": "V2-91A1-1A11",
+			"line1": "Jogress Witchmon to Angewomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/5/50/Angewomon_vpet_dv.gif"
+		},
+		{
+			"code": "V2-11B1-4A5F",
+			"line1": "Jogress Angemon to Andiramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/06/Andiramon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-0211-AB8F",
+			"line1": "Jogress MetalGreymon to Imperialdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/2a/Imperialdramon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-0251-FBFF",
+			"line1": "Jogress MegaloGrowmon to Megidramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/22/Megidramon_vpet_darc.gif"
+		},
+		{
+			"code": "V2-1251-EBFF",
+			"line1": "Jogress Bastemon to Cherubimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/2f/Cherubimon_good_vpet_penp.gif"
+		},
+		{
+			"code": "V2-1211-9B8F",
+			"line1": "Jogress HolyAngemon to Seraphimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/2c/Seraphimon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-8211-BBF1",
+			"line1": "Jogress MegaloGrowmon to Imperialdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/2a/Imperialdramon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-8211-BBF1",
+			"line1": "Jogress Bastemon to Seraphimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/2c/Seraphimon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-8211-BBF1",
+			"line1": "Jogress WereGarurumon to Qinglongmon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/9/9f/Qinglongmon_vpet_d3.gif"
+		},
+		{
+			"code": "V2-8251-EB81",
+			"line1": "Jogress MetalGreymon to Megidramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/22/Megidramon_vpet_darc.gif"
+		},
+		{
+			"code": "V2-8251-EB81",
+			"line1": "Jogress HolyAngemon to Cherubimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/2/2f/Cherubimon_good_vpet_penp.gif"
+		},
+		{
+			"code": "V2-8251-EB81",
+			"line1": "Jogress Grapp Leomon to Baihumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/4/43/Baihumon_vpet_d3.gif"
 		}]
 	}
 
