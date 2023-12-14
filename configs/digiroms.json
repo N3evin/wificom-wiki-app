@@ -314,6 +314,155 @@
 			"image_url": "https://humulos.com/digimon/images/dot/dmx/jes_x.gif"
 		}]
 	},
+	"pen":
+	{
+		"battle": [
+		{
+			"code": "V1-503F-000F-080F-@BDFF",
+			"line1": "Punching Bag",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/agu.gif"
+		},
+		{
+			"code": "V1-503F-01FF-09FF-@BDFF",
+			"line1": "Guaranteed Loss",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/omega.gif"
+		}],
+		"jogress": [
+		{
+			"code": "V2-146F-@D^0^0F",
+			"line1": "Jogress with Vaccine Adult 1",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/ikkaku.gif"
+		},
+		{
+			"code": "V2-547F-@D^0^0F",
+			"line1": "Jogress with Vaccine Adult 2",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/leo.gif"
+		},
+		{
+			"code": "V2-448F-@D^0^0F",
+			"line1": "Jogress with Data Adult 1",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/tank.gif"
+		},
+		{
+			"code": "V2-249F-@D^0^0F",
+			"line1": "Jogress with Data Adult 2",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/wizar.gif"
+		},
+		{
+			"code": "V2-04AF-@D^0^0F",
+			"line1": "Jogress with Virus Adult 1",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/kuwaga.gif"
+		},
+		{
+			"code": "V2-34BF-@D^0^0F",
+			"line1": "Jogress with Virus Adult 2",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/redvegi.gif"
+		},
+		{
+			"code": "V2-14CF-@D^0^0F",
+			"line1": "No idea what this does",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/zudo.gif"
+		},
+		{
+			"code": "V2-34DF-@D^0^0F",
+			"line1": "Jogress with Vaccine Perfect 2",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/garuda.gif"
+		},
+		{
+			"code": "V2-24EF-@D^0^0F",
+			"line1": "Jogress with Data Perfect 1",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/deathmera.gif"
+		},
+		{
+			"code": "V2-44FF-@D^0^0F",
+			"line1": "Jogress with Data Perfect 2",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/bigmame.gif"
+		},
+		{
+			"code": "V2-050F-@D^0^0F",
+			"line1": "Jogress with Virus Perfect 1 on Ver.ZERO",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/okuwa.gif"
+		},
+		{
+			"code": "V2-550F-@D^0^0F",
+			"line1": "Jogress with Virus Perfect 1 on Ver.1-5",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/holyange.gif"
+		},
+		{
+			"code": "V2-051F-@D^0^0F",
+			"line1": "Jogress with Virus Perfect 2 on Ver.ZERO",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/tonosamageko.gif"
+		},
+		{
+			"code": "V2-551F-@D^0^0F",
+			"line1": "Jogress with Virus Perfect 2 on Ver.1-5",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/angewo.gif"
+		},
+		{
+			"code": "V2-552F-@D^0^0F",
+			"line1": "Jogress VBu Metal Garurumon into Omegamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/wargrey.gif"
+		},
+		{
+			"code": "V2-553F-@D^0^0F",
+			"line1": "Jogress VBu War Greymon into Omegamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/metalgaruru.gif"
+		}]
+	},
 	"pen20":
 	{
 		"copymon": [
