@@ -1,4 +1,32 @@
 {
+	"dm":
+	{
+		"battle": [
+		{
+			"code": "V1-FC03-FD02",
+			"line1": "Real toy wins (against Agumon)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm/agu.gif"
+		},
+		{
+			"code": "V1-B34C-FD02",
+			"line1": "Real toy wins (against MetalGreymon)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm/metalgrey_vi.gif"
+		},
+		{
+			"code": "V1-B34C-FD01",
+			"line1": "Real toy loses (against MetalGreymon)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm/metalgrey_vi.gif"
+		}]
+	},
 	"dm20":
 	{
 		"copymon": [
@@ -521,6 +549,219 @@
 			"line3": "",
 			"line4": "",
 			"image_url": "https://humulos.com/digimon/images/dot/pen20/agu_h.gif"
+		}]
+	},
+	"penz":
+	{
+		"battle": [
+		{
+			"code": "V1-836E-212E-288E-182E-018E-@800E",
+			"line1": "Connection to Nature Spirits Z",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/sunariza.gif"
+		},
+		{
+			"code": "V1-837E-279E-BCEE-14BE-00EE-@800E",
+			"line1": "Connection to Deep Savers Z",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/sango.gif"
+		},
+		{
+			"code": "V1-838E-2D9E-45BE-156E-00EE-@800E",
+			"line1": "Connection to a Nightmare Soldeirs Z",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/ghost.gif"
+		},
+		{
+			"code": "V1-839E-2D9E-45BE-156E-00EE-@800E",
+			"line1": "Connection to Wind Guardians Z",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/pomu.gif"
+		},
+		{
+			"code": "V1-83AE-2D9E-45BE-156E-00EE-@800E",
+			"line1": "Connection to Metal Empire Z",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/junk.gif"
+		},
+		{
+			"code": "V1-83BE-2D9E-45BE-156E-00EE-@800E",
+			"line1": "Connection to Virus Busters Z",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/shout.gif"
+		}],
+		"jogress": [
+		{
+			"code": "V2-04^0E-478E-@E00E",
+			"line1": "Jogress with Vaccine Adult",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/mach.gif"
+		},
+		{
+			"code": "V2-04^0E-4E9E-@E00E",
+			"line1": "Jogress with Data Adult",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/witch.gif"
+		},
+		{
+			"code": "V2-04^0E-4EEE-@E00E",
+			"line1": "Jogress with Virus Adult",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/mimic.gif"
+		},
+		{
+			"code": "V2-04^0E-57BE-@E00E",
+			"line1": "Jogress with Free Adult",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/vritra.gif"
+		},
+		{
+			"code": "V2-04^0E-6A0E-@E00E",
+			"line1": "Jogress with Vaccine Perfect",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/marinchimaira.gif"
+		},
+		{
+			"code": "V2-04^0E-63DE-@E00E",
+			"line1": "Jogress with Data Perfect",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/scorpio.gif"
+		},
+		{
+			"code": "V2-04^0E-63AE-@E00E",
+			"line1": "Jogress with Virus Perfect",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/toropia.gif"
+		},
+		{
+			"code": "V2-04^0E-77BE-@E00E",
+			"line1": "Jogress with Free Perfect",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/beowolf.gif"
+		},
+		{
+			"code": "V2-2C6E-430E-@E00E",
+			"line1": "Jogress Aquilamon into Silphymon / ????",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/tail.gif"
+		},
+		{
+			"code": "V2-2C7E-49FE-@E00E",
+			"line1": "Jogress Angemon into Shakkoumon / Holy Angemon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/ankylo.gif"
+		},
+		{
+			"code": "V2-2C8E-503E-@E00E",
+			"line1": "Jogress XV-mon into Paildramon / Dinobeemon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/sting.gif"
+		},
+		{
+			"code": "V2-2C9E-433E-@E00E",
+			"line1": "Jogress Tailmon into Silphymon / Angewomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/aquila.gif"
+		},
+		{
+			"code": "V2-2CAE-494E-@E00E",
+			"line1": "Jogress Stingmon into Paildramon / Dinobeemon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/xv.gif"
+		},
+		{
+			"code": "V2-2CBE-4F8E-@E00E",
+			"line1": "Jogress Ankylomon into Shakkoumon / Marin Chimairamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/ange.gif"
+		},
+		{
+			"code": "V2-047E-984E-@E00E",
+			"line1": "Jogress Metal Garurumon into Omegamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/wargrey.gif"
+		},
+		{
+			"code": "V2-049E-985E-@E00E",
+			"line1": "Jogress War Greymon into Omegamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/metalgaruru.gif"
+		},
+		{
+			"code": "V2-047E-98BE-@E00E",
+			"line1": "Jogress Magna Garurumon into Susanoomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/kaisergrey.gif"
+		},
+		{
+			"code": "V2-049E-98BE-@E00E",
+			"line1": "Jogress Kaiser Greymon into Susanoomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/magnagaruru.gif"
+		},
+		{
+			"code": "V2-04^0E-B44E-@E00E",
+			"line1": "Jogress Imperialdramon: FM into Imperialdramon: PM",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/omega.gif"
+		},
+		{
+			"code": "V2-048E-963E-@E00E",
+			"line1": "Jogress Omegamon into Imperialdramon: PM",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/penz/imperialdra_f.gif"
 		}]
 	}
 
