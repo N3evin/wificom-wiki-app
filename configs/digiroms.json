@@ -5,81 +5,81 @@
 		{
 			"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Blitz Greymon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: A",
+			"line3": "Tamer Name: BLGR",
+			"line4": "Jogress Cres Garurumon into Omegamon Alter-S",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
 		},
 		{
 			"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Cres Garurumon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: B",
+			"line3": "Tamer Name: CRGA",
+			"line4": "Jogress Blitz Greymon into Omegamon Alter-S	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
 		},
 		{
 			"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Aegisdramon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: C",
+			"line3": "Tamer Name: AEGI",
+			"line4": "Jogress Mugendramon into Rust Tyranomon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/aegisdra.gif"
 		},
 		{
 			"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Mugendramon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: D",
+			"line3": "Tamer Name: MUGE",
+			"line4": "Jogress Aegisdramon into Rust Tyranomon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/mugendra.gif"
 		},
 		{
 			"code": "V1-0C13-1901-814E-17CE-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Slayerdramon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: E",
+			"line3": "Tamer Name: SLAY",
+			"line4": "Jogress Breakdramon into Examon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/slayerdra.gif"
 		},
 		{
 			"code": "V1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Breakdramon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: E",
+			"line3": "Tamer Name: BREA",
+			"line4": "Jogress Slayerdramon into Examon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/breakdra.gif"
 		},
 		{
 			"code": "V1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Apollomon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: C",
+			"line3": "Tamer Name: APOL",
+			"line4": "Jogress Dianamon into Grace Novamon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/apollo.gif"
 		},
 		{
 			"code": "V1-0904-0E01-813E-1B1E-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Dianamon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: D",
+			"line3": "Tamer Name: DIAN",
+			"line4": "Jogress Apollomon into Grace Novamon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/diana.gif"
 		},
 		{
 			"code": "V1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get War Greymon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: A",
+			"line3": "Tamer Name: WARG",
+			"line4": "Jogress Metal Garurumon into Omegamon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/wargrey.gif"
 		},
 		{
 			"code": "V1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
 			"line1": "Get Meta Garurumon",
-			"line2": "",
-			"line3": "",
-			"line4": "",
+			"line2": "Version: B",
+			"line3": "Tamer Name: MEGA",
+			"line4": "Jogress War Greymon into Omegamon	",
 			"image_url": "https://humulos.com/digimon/images/dot/dm20/metalgaruru.gif"
 		}]
 	},
