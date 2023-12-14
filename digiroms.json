@@ -1,417 +1,527 @@
 {
 	"dm20":
 	{
-		"copymon":
+		"copymon": [
 		{
-			"blitz_greymon":
-			{
-				"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Blitz Greymon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
-			},
-			"cres_garurumon":
-			{
-				"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Cres Garurumon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
-			},
-			"agisdramon":
-			{
-				"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Aegisdramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/aegisdra.gif"
-			},
-			"mugendramon":
-			{
-				"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Mugendramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/mugendra.gif"
-			},
-			"slayerdramon":
-			{
-				"code": "V1-0C13-1901-814E-17CE-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Slayerdramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/slayerdra.gif"
-			},
-			"breakdramon":
-			{
-				"code": "V1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Breakdramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/breakdra.gif"
-			},
-			"apollomon":
-			{
-				"code": "V1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Apollomon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/apollo.gif"
-			},
-			"dianamon":
-			{
-				"code": "V1-0904-0E01-813E-1B1E-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Dianamon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/diana.gif"
-			},
-			"wargreymon":
-			{
-				"code": "V1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
-				"name": "Get War Greymon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/wargrey.gif"
-			},
-			"metalgarurumon":
-			{
-				"code": "V1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
-				"name": "Get Meta Garurumon",
-				"image_url": "https://humulos.com/digimon/images/dot/dm20/metalgaruru.gif"
-			}
-		}
+			"code": "V1-0C02-1207-810E-03AE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Blitz Greymon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/blitzgrey.gif"
+		},
+		{
+			"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Cres Garurumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/cresgaruru.gif"
+		},
+		{
+			"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Aegisdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/aegisdra.gif"
+		},
+		{
+			"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Mugendramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/mugendra.gif"
+		},
+		{
+			"code": "V1-0C13-1901-814E-17CE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Slayerdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/slayerdra.gif"
+		},
+		{
+			"code": "V1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Breakdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/breakdra.gif"
+		},
+		{
+			"code": "V1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Apollomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/apollo.gif"
+		},
+		{
+			"code": "V1-0904-0E01-813E-1B1E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Dianamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/diana.gif"
+		},
+		{
+			"code": "V1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get War Greymon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/wargrey.gif"
+		},
+		{
+			"code": "V1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Get Meta Garurumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dm20/metalgaruru.gif"
+		}]
 	},
 	"dmc":
 	{
-		"battle":
+		"battle": [
 		{
-			"blitz_greymon":
-			{
-				"code": "C1-47444C4300000000000E00AA00019440-47444C43000200000000000000009389",
-				"name": "Battle vs Ver.1 BlitzGreymon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
-			},
-			"cres_garurumon":
-			{
-				"code": "C1-47444C4300000001000F00960002942F-47444C43000200000000000000009389",
-				"name": "Battle vs Ver.2 CresGarurumon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
-			},
-			"childv3":
-			{
-				"code": "C1-47444C43000000020002001E000393AC-47444C43000200000000000000009389",
-				"name": "Battle vs Ver.3 Child",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/pata.gif"
-			},
-			"childv4":
-			{
-				"code": "C1-47444C43000000030002001E000393AD-47444C43000200000000000000009389",
-				"name": "Battle vs Ver.4 Child",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/piyo.gif"
-			},
-			"childv5":
-			{
-				"code": "C1-47444C43000000040002001E000393AE-47444C43000200000000000000009389",
-				"name": "Battle vs Ver.5 Child",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/gazi.gif"
-			}
+			"code": "C1-47444C4300000000000E00AA00019440-47444C43000200000000000000009389",
+			"line1": "Battle vs Ver.1 BlitzGreymon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
 		},
-		"unlock":
 		{
-			"grasslandbg":
-			{
-				"code": "C1-47444C4300000000000B007300019406-47444C4300020002000000000000938B",
-				"name": "Unlock Grasslands Background",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/metalgrey_vi.gif"
-			},
-			"desertbg":
-			{
-				"code": "C1-47444C4300000001000C007300019408-47444C4300020002000000000000938B",
-				"name": "Unlock Desert Background",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/metalmame.gif"
-			},
-			"forestbg":
-			{
-				"code": "C1-47444C4300000002000B007300019408-47444C4300020002000000000000938B",
-				"name": "Unlock Forest Background",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/andro.gif"
-			},
-			"mountainsbg":
-			{
-				"code": "C1-47444C4300000003000B007300019409-47444C4300020002000000000000938B",
-				"name": "Unlock Mountains Background",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/megadra.gif"
-			},
-			"beachbg":
-			{
-				"code": "C1-47444C4300000004000B00730001940A-47444C4300020002000000000000938B",
-				"name": "Unlock Beach Background",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/metaltyrano.gif"
-			}
+			"code": "C1-47444C4300000001000F00960002942F-47444C43000200000000000000009389",
+			"line1": "Battle vs Ver.2 CresGarurumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
 		},
-		"jogress":
 		{
-			"blitz_greymon":
-			{
-				"code": "C1-47444C4300000000000E00AA00019440-47444C430002003000000000000093B9",
-				"name": "Jogress Cres Garurumon into Omegamon Alter-S",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
-			},
-			"cres_garurumon":
-			{
-				"code": "C1-47444C4300000001000F00730001940B-47444C4300020002000000000000938B",
-				"name": "Jogress Blitz Greymon into Omegamon Alter-S",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
-			},
-			"chimairamon":
-			{
-				"code": "C1-47444C4300000002000E00730002940C-47444C4300020011000000000000939A",
-				"name": "Jogress Mugendramon into Millenniumon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/chimaira.gif"
-			},
-			"bancholeomon":
-			{
-				"code": "C1-47444C4300000002001100B400039451-47444C4300020006000000000000938F",
-				"name": "Jogress Darkdramon into Chaosmon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/bancholeo.gif"
-			},
-			"darkdramon":
-			{
-				"code": "C1-47444C4300000003000E00AA00019443-47444C430002006900000000000093F2",
-				"name": "Jogress Bancho Leomon into Chaosmon; Mugendramon into Chaosdramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/darkdra.gif"
-			},
-			"mugendramon":
-			{
-				"code": "C1-47444C4300000004000E00AA00019444-47444C430002001E00000000000093A7",
-				"name": "Jogress Chimairamon into Millenniumon; Darkdramon into Chaosdramon",
-				"image_url": "https://humulos.com/digimon/images/dot/dmc/mugendra.gif"
-			}
-		}
+			"code": "C1-47444C43000000020002001E000393AC-47444C43000200000000000000009389",
+			"line1": "Battle vs Ver.3 Child",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/pata.gif"
+		},
+		{
+			"code": "C1-47444C43000000030002001E000393AD-47444C43000200000000000000009389",
+			"line1": "Battle vs Ver.4 Child",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/piyo.gif"
+		},
+		{
+			"code": "C1-47444C43000000040002001E000393AE-47444C43000200000000000000009389",
+			"line1": "Battle vs Ver.5 Child",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/gazi.gif"
+		}],
+		"unlock": [
+		{
+			"code": "C1-47444C4300000000000B007300019406-47444C4300020002000000000000938B",
+			"line1": "Unlock Grasslands Background",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/metalgrey_vi.gif"
+		},
+		{
+			"code": "C1-47444C4300000001000C007300019408-47444C4300020002000000000000938B",
+			"line1": "Unlock Desert Background",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/metalmame.gif"
+		},
+		{
+			"code": "C1-47444C4300000002000B007300019408-47444C4300020002000000000000938B",
+			"line1": "Unlock Forest Background",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/andro.gif"
+		},
+		{
+			"code": "C1-47444C4300000003000B007300019409-47444C4300020002000000000000938B",
+			"line1": "Unlock Mountains Background",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/megadra.gif"
+		},
+		{
+			"code": "C1-47444C4300000004000B00730001940A-47444C4300020002000000000000938B",
+			"line1": "Unlock Beach Background",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/metaltyrano.gif"
+		}],
+		"jogress": [
+		{
+			"code": "C1-47444C4300000000000E00AA00019440-47444C430002003000000000000093B9",
+			"line1": "Jogress Cres Garurumon into Omegamon Alter-S",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/blitzgrey.gif"
+		},
+		{
+			"code": "C1-47444C4300000001000F00730001940B-47444C4300020002000000000000938B",
+			"line1": "Jogress Blitz Greymon into Omegamon Alter-S",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/cresgaruru.gif"
+		},
+		{
+			"code": "C1-47444C4300000002000E00730002940C-47444C4300020011000000000000939A",
+			"line1": "Jogress Mugendramon into Millenniumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/chimaira.gif"
+		},
+		{
+			"code": "C1-47444C4300000002001100B400039451-47444C4300020006000000000000938F",
+			"line1": "Jogress Darkdramon into Chaosmon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/bancholeo.gif"
+		},
+		{
+			"code": "C1-47444C4300000003000E00AA00019443-47444C430002006900000000000093F2",
+			"line1": "Jogress Bancho Leomon into Chaosmon; Mugendramon into Chaosdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/darkdra.gif"
+		},
+		{
+			"code": "C1-47444C4300000004000E00AA00019444-47444C430002001E00000000000093A7",
+			"line1": "Jogress Chimairamon into Millenniumon; Darkdramon into Chaosdramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmc/mugendra.gif"
+		}]
 	},
 	"dmx":
 	{
-		"connect":
+		"connect": [
 		{
-			"agumonx":
-			{
-				"code": "V1-800E-218E-483E-142E-010E-@800E",
-				"name": "Connection to a DMX1 Black",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/agu_x.gif"
-			},
-			"gabumonx":
-			{
-				"code": "V1-801E-20DE-943E-143E-010E-@800E",
-				"name": "Connection to a DMX1 White",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/gabu_x.gif"
-			},
-			"agumonblackx":
-			{
-				"code": "V1-802E-20AE-003E-143E-016E-@800E",
-				"name": "Connection to a DMX2 Red",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/agu_b_x.gif"
-			},
-			"impmonx":
-			{
-				"code": "V1-803E-21EE-025E-14FE-016E-@800E",
-				"name": "Connection to a DMX2 Purple",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/imp_x.gif"
-			},
-			"terriermonx":
-			{
-				"code": "V1-804E-218E-952E-143E-014E-@800E",
-				"name": "Connection to a DMX3 Yellow",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/terrier_x.gif"
-			},
-			"lopmonx":
-			{
-				"code": "V1-805E-225E-592E-143E-014E-@800E",
-				"name": "Connection to a DMX3 Blue",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/lop_x.gif"
-			}
+			"code": "V1-800E-218E-483E-142E-010E-@800E",
+			"line1": "Connection to a DMX1 Black",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/agu_x.gif"
 		},
-		"jogress":
 		{
-			"gankoomonx":
-			{
-				"code": "V1-804E-AF5E-122E-28AE-0D0E-@800E",
-				"name": "Jogress Jesmon X into Jesmon GX",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/gankoo_x.gif"
-			},
-			"jesmonx":
-			{
-				"code": "V1-805E-B19E-324E-287E-0BEE-@800E",
-				"name": "Jogress Gankoomon X into Jesmon GX",
-				"image_url": "https://humulos.com/digimon/images/dot/dmx/jes_x.gif"
-			}
-		}
+			"code": "V1-801E-20DE-943E-143E-010E-@800E",
+			"line1": "Connection to a DMX1 White",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/gabu_x.gif"
+		},
+		{
+			"code": "V1-802E-20AE-003E-143E-016E-@800E",
+			"line1": "Connection to a DMX2 Red",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/agu_b_x.gif"
+		},
+		{
+			"code": "V1-803E-21EE-025E-14FE-016E-@800E",
+			"line1": "Connection to a DMX2 Purple",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/imp_x.gif"
+		},
+		{
+			"code": "V1-804E-218E-952E-143E-014E-@800E",
+			"line1": "Connection to a DMX3 Yellow",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/terrier_x.gif"
+		},
+		{
+			"code": "V1-805E-225E-592E-143E-014E-@800E",
+			"line1": "Connection to a DMX3 Blue",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/lop_x.gif"
+		}],
+		"jogress": [
+		{
+			"code": "V1-804E-AF5E-122E-28AE-0D0E-@800E",
+			"line1": "Jogress Jesmon X into Jesmon GX",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/gankoo_x.gif"
+		},
+		{
+			"code": "V1-805E-B19E-324E-287E-0BEE-@800E",
+			"line1": "Jogress Gankoomon X into Jesmon GX",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/dmx/jes_x.gif"
+		}]
 	},
 	"pen20":
 	{
-		"copymon":
+		"copymon": [
 		{
-			"ikkakumon":
-			{
-				"code": "V1-0101-0101-816E-078E-000E-000E-000E-000E-000E-@000E",
-				"name": "Vaccine Adult Copymon for Jogressing",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/ikkaku.gif"
-			},
-			"wizarmon":
-			{
-				"code": "V1-0101-0101-816E-0DDE-000E-000E-000E-000E-000E-@000E",
-				"name": "Data Adult Copymon for Jogressing",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/wizar.gif"
-			},
-			"growmon":
-			{
-				"code": "V1-0101-0101-816E-242E-000E-000E-000E-000E-000E-@000E",
-				"name": "Virus Adult Copymon for Jogressing",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/grow.gif"
-			},
-			"cyberdramon":
-			{
-				"code": "V1-0101-0101-816E-1BCE-000E-000E-000E-000E-000E-@000E",
-				"name": "Vaccine Perfect Copymon for Jogressing",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/cyberdra.gif"
-			},
-			"delumon":
-			{
-				"code": "V1-0101-0101-816E-155E-000E-000E-000E-000E-000E-@000E",
-				"name": "Data Perfect Copymon for Jogressing",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/delu.gif"
-			},
-			"okuwamon":
-			{
-				"code": "V1-0101-0101-816E-04AE-000E-000E-000E-000E-000E-@000E",
-				"name": "Virus Perfect Copymon for Jogressing",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/okuwa.gif"
-			},
-			"wargreymon":
-			{
-				"code": "V1-0101-0101-816E-1C0E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Metal Garurumon into Omegamon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/wargrey.gif"
-			},
-			"metalgarurumon":
-			{
-				"code": "V1-0101-0101-816E-1C5E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing War Greymon into Omegamon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/metalgaruru.gif"
-			},
-			"demon":
-			{
-				"code": "V1-0101-0101-816E-112E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Belphemon into Ogudomon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/de.gif"
-			},
-			"belphemon":
-			{
-				"code": "V1-0101-0101-816E-22AE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Demon into Ogudomon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/belphe.gif"
-			},
-			"vamdemon":
-			{
-				"code": "V1-0101-0101-816E-0FEE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Piemon into Voltobautamon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/vamde.gif"
-			},
-			"piemon":
-			{
-				"code": "V1-0101-0101-816E-116E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Vamdemon into Voltobautamon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/pie.gif"
-			},
-			"durandamon":
-			{
-				"code": "V1-0101-0101-816E-28CE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Bryweludramon into Ragna Lordmon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/duranda.gif"
-			},
-			"bryweludramon":
-			{
-				"code": "V1-0101-0101-816E-311E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Durandamon into Ragna Lordmon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/bryweludra.gif"
-			},
-			"ouryumon":
-			{
-				"code": "V1-0101-0101-816E-358E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Alphamon into Alphamon: Ouryuken",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/ouryu.gif"
-			},
-			"alphamon":
-			{
-				"code": "V1-0101-0101-816E-388E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Ouryumon into Alphamon: Ouryuken",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/alpha.gif"
-			},
-			"rosemon":
-			{
-				"code": "V1-0101-0101-816E-171E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Lotusmon into Rafflesimon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/rose.gif"
-			},
-			"lotusmon":
-			{
-				"code": "V1-0101-0101-816E-36DE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Rosemon into Rafflesimon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/lotus.gif"
-			},
-			"angewomon":
-			{
-				"code": "V1-0101-0101-816E-04CE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Lady Devimon into Mastemon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/angewo.gif"
-			},
-			"ladydevimon":
-			{
-				"code": "V1-0101-0101-816E-106E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Angewomon into Mastemon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/ladydevi.gif"
-			},
-			"bancholeomon":
-			{
-				"code": "V1-0101-0101-816E-298E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Darkdramon into Chaosmon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/bancholeo.gif"
-			},
-			"darkdramon":
-			{
-				"code": "V1-0101-0101-816E-2CAE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Bancho Leomon into Chaosmon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/darkdra.gif"
-			},
-			"slayerdramon":
-			{
-				"code": "V1-0101-0101-816E-2C0E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Breakdramon into Examon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/slayerdra.gif"
-			},
-			"breakdramon":
-			{
-				"code": "V1-0101-0101-816E-2C6E-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Slayerdramon into Examon",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/breakdra.gif"
-			},
-			"omegamon":
-			{
-				"code": "V1-0101-0101-816E-38CE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Imperialdramon into Imperialdramon: Paladin Mode",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/omega.gif"
-			},
-			"imperialdramonf":
-			{
-				"code": "V1-0101-0101-816E-39FE-000E-000E-000E-000E-000E-@000E",
-				"name": "Copymon for Jogressing Omegamon into Imperialdramon: Paladin Mode",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/imperialdra_f.gif"
-			}
+			"code": "V1-0101-0101-816E-078E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Vaccine Adult Copymon for Jogressing",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/ikkaku.gif"
 		},
-		"battle":
 		{
-			"alphamon":
-			{
-				"code": "V1-006E-388E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
-				"name": "Evolve Jesmon into Jesmon X",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/alpha.gif"
-			},
-			"terriermon":
-			{
-				"code": "V1-006E-2D4E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
-				"name": "Unlock the Lala Digitama on Dukemon Color / Beelzebumon Color",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/terrier.gif"
-			},
-			"agumonh":
-			{
-				"code": "V1-008E-2A8E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
-				"name": "Unlock the Lala Digitama on Silver Black / Silver Blue",
-				"image_url": "https://humulos.com/digimon/images/dot/pen20/agu_h.gif"
-			}
-		}
+			"code": "V1-0101-0101-816E-0DDE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Data Adult Copymon for Jogressing",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/wizar.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-242E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Virus Adult Copymon for Jogressing",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/grow.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-1BCE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Vaccine Perfect Copymon for Jogressing",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/cyberdra.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-155E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Data Perfect Copymon for Jogressing",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/delu.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-04AE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Virus Perfect Copymon for Jogressing",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/okuwa.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-1C0E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Metal Garurumon into Omegamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/wargrey.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-1C5E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing War Greymon into Omegamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/metalgaruru.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-112E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Belphemon into Ogudomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/de.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-22AE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Demon into Ogudomon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/belphe.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-0FEE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Piemon into Voltobautamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/vamde.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-116E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Vamdemon into Voltobautamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/pie.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-28CE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Bryweludramon into Ragna Lordmon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/duranda.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-311E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Durandamon into Ragna Lordmon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/bryweludra.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-358E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Alphamon into Alphamon: Ouryuken",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/ouryu.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-388E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Ouryumon into Alphamon: Ouryuken",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/alpha.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-171E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Lotusmon into Rafflesimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/rose.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-36DE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Rosemon into Rafflesimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/lotus.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-04CE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Lady Devimon into Mastemon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/angewo.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-106E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Angewomon into Mastemon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/ladydevi.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-298E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Darkdramon into Chaosmon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/bancholeo.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-2CAE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Bancho Leomon into Chaosmon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/darkdra.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-2C0E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Breakdramon into Examon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/slayerdra.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-2C6E-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Slayerdramon into Examon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/breakdra.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-38CE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Imperialdramon into Imperialdramon: Paladin Mode",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/omega.gif"
+		},
+		{
+			"code": "V1-0101-0101-816E-39FE-000E-000E-000E-000E-000E-@000E",
+			"line1": "Copymon for Jogressing Omegamon into Imperialdramon: Paladin Mode",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/imperialdra_f.gif"
+		}],
+		"battle": [
+		{
+			"code": "V1-006E-388E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
+			"line1": "Evolve Jesmon into Jesmon X",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/alpha.gif"
+		},
+		{
+			"code": "V1-006E-2D4E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
+			"line1": "Unlock the Lala Digitama on Dukemon Color / Beelzebumon Color",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/terrier.gif"
+		},
+		{
+			"code": "V1-008E-2A8E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
+			"line1": "Unlock the Lala Digitama on Silver Black / Silver Blue",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://humulos.com/digimon/images/dot/pen20/agu_h.gif"
+		}]
 	}
 
 }
