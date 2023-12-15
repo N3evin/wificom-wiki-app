@@ -1788,6 +1788,54 @@
 				"line4": "Battles fill the Connect Points bar. When the bar is full you will receive a special evolution item.",
 				"image_url": "https://wikimon.net/images/d/dd/Gaomon_vpet_dvic.gif"
 			}]
+		},
+		"infared":
+		{
+			"ic":
+			{
+				"battle": [
+				{
+					"code": "!IC2-0067-4257-0197-0007-D087",
+					"line1": "Battle with iC 10x",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "!IC2-1137-4B07-0B37-0007-E1F7",
+					"line1": "Battle with iC 20x",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "!IC2-2067-6047-0247-0007-5037",
+					"line1": "Battle with Burst",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "!IC2-1577-4927-0B47-0007-0057",
+					"line1": "DigiWindow (Battle)",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "!IC2-1577-4927-0B47-0007-3117",
+					"line1": "DigiWindow (Scan)",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				}]
+			}
+
 		}
 	}
 
