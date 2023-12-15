@@ -1511,17 +1511,46 @@
 			"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
 		}]
 	},
-	"mini": {
+	"mini":
+	{
 		"battle": [
-			{
+		{
 			"code": "X1-0099-1869-7AF9-@4009",
 			"line1": "Real toy win",
 			"line2": "",
 			"line3": "",
 			"line4": "",
 			"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
-		}
-		]
+		}]
+	},
+	"adventure":
+	{
+		"original": [
+		{
+			"code": "V2-FC03-1DE2-EE11",
+			"line1": "Unlock Veedramon",
+			"line2": "Skip Adult (Champion) battle requirement.",
+			"line3": "",
+			"line4": "Battle that code with each Child (Rookie) digimon who hasn’t unlocked Adult (Champion)",
+			"image_url": "https://wikimon.net/images/8/8d/Vdramon_vpet_dv.gif"
+		}],
+		"15complete": [
+		{
+			"code": "V2-FC03-1DE2-EE11",
+			"line1": "Unlock Veedramon/Meicoomon (depends on version)",
+			"line2": "SkipAdult (Champion) battle requirement",
+			"line3": "Battle that code with each Child (Rookie) digimon who hasn’t unlocked Adult (Champion)",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/d/d7/Meicoomon_vpet_dark.gif"
+		},
+		{
+			"code": "v1-FF00-FA05-03FC-FF00",
+			"line1": "Unlock Crest of Courage",
+			"line2": "",
+			"line3": "",
+			"line4": "use battle",
+			"image_url": "https://wikimon.net/images/2/26/Crest_courage_vpet_Digivice.gif"
+		}]
 	}
 
 }
