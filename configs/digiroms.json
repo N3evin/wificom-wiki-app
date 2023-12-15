@@ -522,113 +522,113 @@
 		{
 			"code": "X2-0429-A009",
 			"line1": "Meat-M",
-			"line2": "Fills Stomach up, Strength up, Adds +2 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up, Strength up, Adds +2 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/meatm.gif"
 		},
 		{
 			"code": "X2-0439-9009",
 			"line1": "Meat-L",
-			"line2": "Fills Stomach Extra full a lot. Adds +3 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
-			"image_url": ""
+			"line4": "Fills Stomach Extra full a lot. Adds +3 to weight.",
+			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/meatl.gif"
 		},
 		{
 			"code": "X2-0449-8009",
 			"line1": "Protein+",
-			"line2": "Fills Stomach up a small bit, Strength UP, Adds +6 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up a small bit, Strength UP, Adds +6 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/proteinplus.gif"
 		},
 		{
 			"code": "X2-0459-7009",
 			"line1": "STR-MAX",
-			"line2": "Fills Stomach up a small bit, Strength to MAX, Adds +20 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up a small bit, Strength to MAX, Adds +20 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/strmax.gif"
 		},
 		{
 			"code": "X2-0469-6009",
 			"line1": "Aqua Orb",
-			"line2": "Fills Stomach up, Strength up, Adds +10 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/aquaorb.gif"
 		},
 		{
 			"code": "X2-0479-5009",
 			"line1": "Metal Rise",
-			"line2": "Fills Stomach up, Strength up, Adds +10 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/metalrise.gif"
 		},
 		{
 			"code": "X2-0489-4009",
 			"line1": "Sky Wings",
-			"line2": "Fills Stomach up, Strength up, Adds +10 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/skywings.gif"
 		},
 		{
 			"code": "X2-0499-3009",
 			"line1": "Zombie Meat",
-			"line2": "Fills Stomach to MAX, Strength to Zero, Decreases weight -30, and sickness.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach to MAX, Strength to Zero, Decreases weight -30, and sickness.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/zombiemeat.gif"
 		},
 		{
 			"code": "X2-04A9-2009",
 			"line1": "Forest Leaf",
-			"line2": "Fills Stomach up, Strength up, Adds +10 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/forestleaf.gif"
 		},
 		{
 			"code": "X2-04B9-1009",
 			"line1": "D-Poison",
-			"line2": "Stomach and Strength to 0, Decreases weight, Number of near death experiences are reset.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Stomach and Strength to 0, Decreases weight, Number of near death experiences are reset.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/dpoison.gif"
 		},
 		{
 			"code": "X2-04C9-0009",
 			"line1": "CHO-Energy",
-			"line2": "Fills Stomach to MAX, Strength Extra full, Add +10 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach to MAX, Strength Extra full, Add +10 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/choenergy.gif"
 		},
 		{
 			"code": "X2-04D9-F009",
 			"line1": "Master Tag",
-			"line2": "Fills Stomach to MAX, Decreases weight -10.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Fills Stomach to MAX, Decreases weight -10.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/mastertag.gif"
 		},
 		{
 			"code": "X2-04E9-E009",
 			"line1": "Evo-5",
-			"line2": "Randomly evolves Adult Digimon to Perfect Digimon. Strength/Hunger is Zero, Adds +10 to weight.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Randomly evolves Adult Digimon to Perfect Digimon. Strength/Hunger is Zero, Adds +10 to weight.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/evo5.gif"
 		},
 		{
 			"code": "X2-04F9-D009",
 			"line1": "Level Reverse",
-			"line2": "Randomly evolves your Digimon to previous level. Stomach to MAX, weight -10.",
+			"line2": "",
 			"line3": "",
-			"line4": "",
+			"line4": "Randomly evolves your Digimon to previous level. Stomach to MAX, weight -10.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/levelreverse.gif"
 		}]
 	},
