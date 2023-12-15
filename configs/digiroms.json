@@ -1795,40 +1795,32 @@
 			{
 				"battle": [
 				{
-					"code": "IC2-0067-4257-0197-0007-D087",
-					"line1": "Battle with iC 10x",
+					"code": "IC1-C067-4257-0197-0007-@F007",
+					"line1": "Battle with iC 10x for Digi Shop 1",
 					"line2": "",
 					"line3": "",
 					"line4": "",
 					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
 				},
 				{
-					"code": "IC2-1137-4B07-0B37-0007-E1F7",
-					"line1": "Battle with iC 20x",
+					"code": "IC1-D067-4257-0197-0007-@F007",
+					"line1": "Battle with iC 20x for Digi Shop 2",
 					"line2": "",
 					"line3": "",
 					"line4": "",
 					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
 				},
 				{
-					"code": "IC2-2067-6047-0247-0007-5037",
-					"line1": "Battle with Burst",
+					"code": "IC1-E067-4257-0197-0007-@F007",
+					"line1": "Battle with Burst for Digi Shop 3",
 					"line2": "",
 					"line3": "",
 					"line4": "",
 					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
 				},
 				{
-					"code": "IC2-1577-4927-0B47-0007-0057",
-					"line1": "DigiWindow (Battle)",
-					"line2": "",
-					"line3": "",
-					"line4": "",
-					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
-				},
-				{
-					"code": "IC2-1577-4927-0B47-0007-3117",
-					"line1": "DigiWindow (Scan)",
+					"code": "IC1-D577-4927-0B47-0007-@F007",
+					"line1": "Battle with DigiWindow for Digi Shop 4",
 					"line2": "",
 					"line3": "",
 					"line4": "",
