@@ -1539,8 +1539,8 @@
 			"code": "V2-FC03-1DE2-EE11",
 			"line1": "Unlock Veedramon/Meicoomon (depends on version)",
 			"line2": "SkipAdult (Champion) battle requirement",
-			"line3": "Battle that code with each Child (Rookie) digimon who hasn’t unlocked Adult (Champion)",
-			"line4": "",
+			"line3": "",
+			"line4": "Battle that code with each Child (Rookie) digimon who hasn’t unlocked Adult (Champion)",
 			"image_url": "https://wikimon.net/images/d/d7/Meicoomon_vpet_dark.gif"
 		},
 		{
