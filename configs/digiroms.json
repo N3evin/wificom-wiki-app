@@ -1669,6 +1669,111 @@
 			"line4": "",
 			"image_url": "https://wikimon.net/images/a/a2/Dinobeemon_vpet_d3.gif"
 		}]
+	},
+	"dscanner":
+	{
+		"prongs":
+		{
+			"v1": [
+			{
+				"code": "V1-81A1-2A11",
+				"line1": "Stingmon to Paildramon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/0/01/Paildramon_vpet_d3.gif"
+			},
+			{
+				"code": "V1-8211-2B81",
+				"line1": "Paildramon to Imperialdramon: DM",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/2/2a/Imperialdramon_vpet_d3.gif"
+			},
+			{
+				"code": "V1-81B1",
+				"line1": "Airdramon to Megadramon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/1/1b/Megadramon_vpet_dv.gif"
+			},
+			{
+				"code": "V1-8251-7BF1",
+				"line1": "Megadramon to Megidramon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/2/22/Megidramon_vpet_darc.gif"
+			}],
+			"v2": [
+			{
+				"code": "V1-91A1",
+				"line1": "Angemon to Angewoman",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/5/50/Angewomon_vpet_dv.gif"
+			},
+			{
+				"code": "V1-9211",
+				"line1": "Angewoman to Seraphimon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/2/2c/Seraphimon_vpet_d3.gif"
+			},
+			{
+				"code": "V1-91B1",
+				"line1": "Tailmon to Andiramon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/0/06/Andiramon_vpet_d3.gif"
+			},
+			{
+				"code": "V1-9251",
+				"line1": "Andiramon to Cherubimon (Evil)",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/8/88/Cherubimon_evil_vpet_d3.gif"
+			}],
+			"v3": [
+			{
+				"code": "V1-91A1",
+				"line1": "Darcmon to Silphymon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/1/15/Silphymon_vpet_d3.gif"
+			},
+			{
+				"code": "V1-8211-2B8F",
+				"line1": "Silphymon to SlashAngemon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/d/d6/Slashangemon_vpet_dscan.gif"
+			},
+			{
+				"code": "V1-91B1",
+				"line1": "Thundernbirdmon to Hippogriffmon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/7/7d/Hippogriffomon_vpet_dscan.gif"
+			},
+			{
+				"code": "V1-9211",
+				"line1": "Lucemon FM to Huanlongmon",
+				"line2": "",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://wikimon.net/images/5/50/Huanlongmon_vpet_dscan.gif"
+			}]
+		}
 	}
 
 }
