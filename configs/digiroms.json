@@ -1773,6 +1773,2270 @@
 				"line4": "",
 				"image_url": "https://wikimon.net/images/5/50/Huanlongmon_vpet_dscan.gif"
 			}]
+		},
+		"infrared":
+		{
+			"v1": [
+			{
+				"code": "BC1-0000000000111",
+				"line1": "Gabumon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000010111",
+				"line1": "V-mon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000020122",
+				"line1": "Terriermon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000030111",
+				"line1": "Monodramon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000040111",
+				"line1": "Impmon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000050112",
+				"line1": "Gotsumon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000060111",
+				"line1": "Wormmon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000070111",
+				"line1": "Chuumon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000080111",
+				"line1": "Flamon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000090111",
+				"line1": "Lucemon",
+				"line2": "V1 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000100111",
+				"line1": "Agnimon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000110111",
+				"line1": "Vritramon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000120112",
+				"line1": "Fairymon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000130111",
+				"line1": "Shutumon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000140111",
+				"line1": "Chakmon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000150121",
+				"line1": "Blizzarmon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000160111",
+				"line1": "Grottomon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000170111",
+				"line1": "Gigasmon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000180111",
+				"line1": "Arbormon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000190111",
+				"line1": "Petaldramon",
+				"line2": "V1 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000200111",
+				"line1": "Garurumon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000210111",
+				"line1": "XV-mon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000220111",
+				"line1": "Galgomon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000230111",
+				"line1": "Strikedramon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000240111",
+				"line1": "Devimon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000250111",
+				"line1": "Kuwagamon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000260111",
+				"line1": "Stingmon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000270111",
+				"line1": "Airdramon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000280121",
+				"line1": "Numemon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000290112",
+				"line1": "Starmon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000300117",
+				"line1": "Dobermon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000310121",
+				"line1": "V-Dramon",
+				"line2": "V1 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000320111",
+				"line1": "WereGarurumon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000330111",
+				"line1": "Paildramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000340111",
+				"line1": "Rapidmon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000350111",
+				"line1": "Cyberdramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000360112",
+				"line1": "Dagomon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000370111",
+				"line1": "Megadramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000380111",
+				"line1": "LadyDevimon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000390111",
+				"line1": "Ookuwamon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000400111",
+				"line1": "SkullSatamon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000410111",
+				"line1": "Lilymon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000420111",
+				"line1": "Bastemon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000430112",
+				"line1": "Mephismon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000440121",
+				"line1": "Mummymon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000450111",
+				"line1": "Mihiramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000460111",
+				"line1": "Indaramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000470111",
+				"line1": "Vajiramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000480112",
+				"line1": "Majiramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000490111",
+				"line1": "Shinduramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000500112",
+				"line1": "Kunbiramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000510111",
+				"line1": "AeroV-Dramon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000520111",
+				"line1": "Volcamon",
+				"line2": "V1 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000530111",
+				"line1": "Magnamon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000540111",
+				"line1": "Pharaohmon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000550116",
+				"line1": "MetalGarurumon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000560111",
+				"line1": "Imperialdramon Dragon Mode",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000570122",
+				"line1": "SaintGalgomon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000580111",
+				"line1": "KingEtemon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000590111",
+				"line1": "Justimon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000600121",
+				"line1": "GranKuwagamon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000610111",
+				"line1": "Holydramon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000620111",
+				"line1": "Goddramon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000630111",
+				"line1": "Megidramon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000640111",
+				"line1": "Galfmon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000650111",
+				"line1": "Deathmon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000660111",
+				"line1": "SaberLeomon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000670112",
+				"line1": "Rosemon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000680111",
+				"line1": "Diablomon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000690111",
+				"line1": "Demon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000700111",
+				"line1": "Beelzebumon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000710111",
+				"line1": "Imperialdramon Fighter Mode",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000720113",
+				"line1": "Armagemon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000730121",
+				"line1": "Qinglongmon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000740112",
+				"line1": "Xuanwumon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000750111",
+				"line1": "AncientGreymon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000760111",
+				"line1": "AncientIrismon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000770111",
+				"line1": "AncientMegatheriumon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000780111",
+				"line1": "AncientVolcamon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000790111",
+				"line1": "AncientTroiamon",
+				"line2": "V1 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			}],
+			"v2": [
+			{
+				"code": "BC1-0000000000211",
+				"line1": "Agumon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000010222",
+				"line1": "Guilmon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000020211",
+				"line1": "Renamon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000030211",
+				"line1": "Patamon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000040212",
+				"line1": "Penmon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000050211",
+				"line1": "Tentomon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000060211",
+				"line1": "Goblimon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000070211",
+				"line1": "Mushmon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000080211",
+				"line1": "Plotmon",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000090211",
+				"line1": "Arkadimon Rookie",
+				"line2": "V2 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000100212",
+				"line1": "Wolfmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000120211",
+				"line1": "Blitzmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000140221",
+				"line1": "Duskmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000160211",
+				"line1": "Ranamon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000180211",
+				"line1": "Mercuremon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000110212",
+				"line1": "Garmmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000130211",
+				"line1": "Bolgmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000150211",
+				"line1": "Velgmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000170211",
+				"line1": "Calmaramon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000190211",
+				"line1": "Sefirotmon",
+				"line2": "V2 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000200211",
+				"line1": "Greymon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000210211",
+				"line1": "Growmon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000220211",
+				"line1": "Kyuubimon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000230211",
+				"line1": "Angemon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000240211",
+				"line1": "Tailmon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000250211",
+				"line1": "Kabuterimon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000260211",
+				"line1": "Lynxmon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000270221",
+				"line1": "Goatmon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000280211",
+				"line1": "Wizarmon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000290211",
+				"line1": "Sukamon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000300211",
+				"line1": "Shiisamon",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000310211",
+				"line1": "Arkadimon Champion",
+				"line2": "V2 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000320211",
+				"line1": "MetalGreymon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000330211",
+				"line1": "MegaloGrowmon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000340211",
+				"line1": "Taomon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000350212",
+				"line1": "HolyAngemon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000360211",
+				"line1": "Angewomon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000370211",
+				"line1": "Vamdemon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000380211",
+				"line1": "Cerberumon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000390211",
+				"line1": "SkullGreymon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000400211",
+				"line1": "AtlurKabuterimon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000410211",
+				"line1": "Chimeramon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000420212",
+				"line1": "Zudomon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000430221",
+				"line1": "Garudamon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000440211",
+				"line1": "Archnemon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000450211",
+				"line1": "Makuramon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000460211",
+				"line1": "Vikararamon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000470211",
+				"line1": "Pajiramon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000480211",
+				"line1": "Santiramon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000490211",
+				"line1": "Chatsuramon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000500210",
+				"line1": "Antiramon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000510211",
+				"line1": "Arkadimon Ultimate",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000520211",
+				"line1": "Betsumon",
+				"line2": "V2 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000530211",
+				"line1": "Milleniumon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000540211",
+				"line1": "Anubimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000550211",
+				"line1": "VenomVamdemon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000560222",
+				"line1": "Valkyrimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000570211",
+				"line1": "Sakuyamon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000580211",
+				"line1": "Seraphimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000590212",
+				"line1": "Cherubimon Vaccine",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000600211",
+				"line1": "HeracleKabuterimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000610211",
+				"line1": "Ophanimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000620211",
+				"line1": "Dynasmon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000630211",
+				"line1": "PrinceMamemon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000640211",
+				"line1": "Marsmon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000650211",
+				"line1": "BelialVamdemon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000660212",
+				"line1": "MetalSeadramon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000670211",
+				"line1": "Mugendramon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000680211",
+				"line1": "Pinocchimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000690221",
+				"line1": "Piemon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000700211",
+				"line1": "Dukemon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000710211",
+				"line1": "Arkadimon Mega",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000720221",
+				"line1": "WarGreymon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000730211",
+				"line1": "Baihumon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000740211",
+				"line1": "Zhuqiaomon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000750211",
+				"line1": "AncientGarurumon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000760211",
+				"line1": "AncientBeetmon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000770211",
+				"line1": "AncientSphinxmon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000780211",
+				"line1": "AncientMermaimon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000790211",
+				"line1": "AncientWisemon",
+				"line2": "V2 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			}],
+			"v3": [
+			{
+				"code": "BC1-0000000730311",
+				"line1": "Lucemon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000740311",
+				"line1": "EbiBurgermon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000750311",
+				"line1": "Bearmon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000760311",
+				"line1": "Kotemon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000770311",
+				"line1": "Koemon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000780311",
+				"line1": "Neemon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000790311",
+				"line1": "Bokomon",
+				"line2": "V3 Rookie",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000010311",
+				"line1": "Susanoomon + Zero Arms: Orochi",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000020311",
+				"line1": "Susanoomon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000030311",
+				"line1": "KaiserGreymon + Ryuugonken",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000040311",
+				"line1": "MagnaGarurumon + Armor",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000050312",
+				"line1": "KaiserGreymon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000060311",
+				"line1": "MagnaGarurumon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000070311",
+				"line1": "Ardhamon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000080311",
+				"line1": "Daipenmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000090311",
+				"line1": "JetSilphymon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000100312",
+				"line1": "Beowulfmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000110312",
+				"line1": "RhinoKabuterimon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000120311",
+				"line1": "Reichmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000130312",
+				"line1": "Vritramon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000140312",
+				"line1": "Blizzarmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000150311",
+				"line1": "Shutumon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000160311",
+				"line1": "Gigasmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000170311",
+				"line1": "Petaldramon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000180311",
+				"line1": "Garmmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000190311",
+				"line1": "Bolgmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000200312",
+				"line1": "KaiserLeomon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000210312",
+				"line1": "Calamarimon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000220311",
+				"line1": "Sephirotmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000230311",
+				"line1": "Agnimon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000240311",
+				"line1": "Chakmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000250311",
+				"line1": "Fairymon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000260311",
+				"line1": "Grottomon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000270312",
+				"line1": "Arbormon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000280311",
+				"line1": "Wolfmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000290311",
+				"line1": "Blitzmon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000300312",
+				"line1": "Löwemon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000310322",
+				"line1": "Ranamon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000320321",
+				"line1": "Mercurimon",
+				"line2": "V3 Hybrid",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000610311",
+				"line1": "Greymon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000620311",
+				"line1": "Garurumon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000630311",
+				"line1": "Kabuterimon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000640311",
+				"line1": "D'Arcmon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000650311",
+				"line1": "Grizzmon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000660311",
+				"line1": "FlaWizarmon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000680312",
+				"line1": "Blimpmon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000690311",
+				"line1": "Salamandemon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000700311",
+				"line1": "ThunderBirmon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000710311",
+				"line1": "Fangmon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000720311",
+				"line1": "Mikemon",
+				"line2": "V3 Champion",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000520311",
+				"line1": "Lucemon Falldown Mode",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000530311",
+				"line1": "Zudomon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000540311",
+				"line1": "Silphymon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000550311",
+				"line1": "Volcamon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000560312",
+				"line1": "Parrotmon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000570311",
+				"line1": "Asuramon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000580311",
+				"line1": "HippoGryphomon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000590311",
+				"line1": "Phelesmon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000600322",
+				"line1": "JewelBeemon",
+				"line2": "V3 Ultimate",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000430311",
+				"line1": "Huanglongmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000440311",
+				"line1": "Lucemon Satan Mode",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000450311",
+				"line1": "Dynasmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000460311",
+				"line1": "LordKnightmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000000311",
+				"line1": "SlashAngemon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000470311",
+				"line1": "Ornismon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000480311",
+				"line1": "Murmuxmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000490311",
+				"line1": "Pinocchimon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000500311",
+				"line1": "Pharaohmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000510311",
+				"line1": "MarineAngemon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000330311",
+				"line1": "AncientGreymon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000340311",
+				"line1": "AncientMegatheriumon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000350311",
+				"line1": "AncientIrismon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000360311",
+				"line1": "AncientVolcamon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000370311",
+				"line1": "AncientTroiamon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000380311",
+				"line1": "AncientGarurumon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000390311",
+				"line1": "AncientBeetmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000400311",
+				"line1": "AncientSphinxmon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000410311",
+				"line1": "AncientMermaimon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000000420311",
+				"line1": "AncientWisemon",
+				"line2": "V3 Mega",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			}],
+			"item": [
+			{
+				"code": "BC1-0200000000001",
+				"line1": "Plugin V",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000010",
+				"line1": "Plugin K",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000111",
+				"line1": "Plugin F",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000211",
+				"line1": "Plugin G",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000311",
+				"line1": "Plugin H",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000412",
+				"line1": "Plugin T",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000511",
+				"line1": "Double EXE",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000611",
+				"line1": "Triple EXE",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000711",
+				"line1": "Hyper EXE",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000000811",
+				"line1": "Power Booster",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000010001",
+				"line1": "Hit Lock",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001011",
+				"line1": "Gambler",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001112",
+				"line1": "Va Modify",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001211",
+				"line1": "Da Modify",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001311",
+				"line1": "Vi Modify",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001411",
+				"line1": "Eraser",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001511",
+				"line1": "A Change",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001611",
+				"line1": "A HP Up",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001710",
+				"line1": "A AP Up",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000001811",
+				"line1": "A SP Up",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000011911",
+				"line1": "A Eraser",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002011",
+				"line1": "Protector",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002111",
+				"line1": "Eraser Lock",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002211",
+				"line1": "Low Worm",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002311",
+				"line1": "SDP Down",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002410",
+				"line1": "Power Charger",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002511",
+				"line1": "Super Charger",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002611",
+				"line1": "Summon Cube",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0200000002711",
+				"line1": "Cure Box",
+				"line2": "Item",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			}],
+			"battle": [
+			{
+				"code": "BC1-0000092001011",
+				"line1": "Chuumon / Goblimon / EbiBurgermon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092002011",
+				"line1": "Starmon / Wizardmon / Kotemon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092003011",
+				"line1": "Dobermon / Sukamon / Koemon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092004011",
+				"line1": "Veedramon / Shiisamon / D'arcmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092005011",
+				"line1": "Bastemon / Zudomon / FlaWizarmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092005061",
+				"line1": "Indaramon / Vikaralamon / FlaWizarmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092006011",
+				"line1": "Majiramon / Santiramon / Fangmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092006061",
+				"line1": "Kumbhiramon / Myotismon / Fangmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092007011",
+				"line1": "Justimon / PrinceMamemon / Mikemon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092007061",
+				"line1": "Goddramon / H-Kabuterimon / Mikemon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092008011",
+				"line1": "Holydramon / Dynasmon / Parrotmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092008061",
+				"line1": "Saberleomon / MaloMyotismon / Phelesmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092009011",
+				"line1": "Rosemon / Machinedramon / Dynasmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			},
+			{
+				"code": "BC1-0000092009061",
+				"line1": "Armagemon / Wargreymon / LordKnightmon",
+				"line2": "Battle",
+				"line3": "",
+				"line4": "",
+				"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+			}]
 		}
 	},
 	"icdatalink":
@@ -1821,6 +4085,58 @@
 				{
 					"code": "IC1-D577-4927-0B47-0007-@F007",
 					"line1": "Battle with DigiWindow for Digi Shop 4",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				}]
+			},
+			"datalink":
+			{
+				"items": [
+				{
+					"code": "DL2-1301002000AA>>+?-1301002000AA>>+?",
+					"line1": "2000 points",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "DL2-120100030FAA>>+?-120100030FAA>>+?",
+					"line1": "Health Bar (food)",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "DL2-1201000034AA>>+?-1201000034AA>>+?",
+					"line1": "D-Charger (item)",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "DL2-1201000200AA>>+?-1201000200AA>>+?",
+					"line1": "Dragon DNA",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "DL2-1201000201AA>>+?-1201000201AA>>+?",
+					"line1": "Beast DNA",
+					"line2": "",
+					"line3": "",
+					"line4": "",
+					"image_url": "https://humulos.com/digimon/images/dot/dmc/digitama_c2.gif"
+				},
+				{
+					"code": "DL2-1201000202AA>>+?-1201000202AA>>+?",
+					"line1": "Insect DNA",
 					"line2": "",
 					"line3": "",
 					"line4": "",
