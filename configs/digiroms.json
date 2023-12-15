@@ -630,6 +630,242 @@
 			"line3": "",
 			"line4": "Randomly evolves your Digimon to previous level. Stomach to MAX, weight -10.",
 			"image_url": "https://lcd.withthewill.net/files/penx/lcd/item/levelreverse.gif"
+		}],
+		"x1jogress": [
+		{
+			"code": "V2-0D29-8189",
+			"line1": "Dorugamon to Dorugremon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/04/Doruguremon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0C99-2189",
+			"line1": "Greymon X to Dorugremon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/04/Doruguremon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0CF9-3209",
+			"line1": "Raptordramon (1.0) to MegaSeadramon (X-Antibody)",
+			"line2": "Death-X Dorugamon (1.5) to MegaSeadramon (X-Antibody)",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/6/65/Megaseadramonx_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0CC9-6209",
+			"line1": "Seadramon X to MegaSeadramon (X-Antibody) ",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/6/65/Megaseadramonx_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0D89-2279",
+			"line1": "Ookuwamon (X-Antibody) to Dorugoramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/04/Dorugoramon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0E49-5279",
+			"line1": "Dorugremon to Dorugoramon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/0/04/Dorugoramon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0DE9-92A9",
+			"line1": "Grademon (1.0) to Alphamon (1.0)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/9/9d/Alphamon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0DE9-92A9",
+			"line1": "Death-X-DORUguremon (1.5) to Death-X-Dorugoramon (1.5)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/1/13/Death-x-dorugoramon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1E49-7339",
+			"line1": "Ookuwamon (X-Antibody) to Grandis Kuwagamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/d/d8/Grandiskuwagamon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1EA9-D379",
+			"line1": "Alphamon (1.0) to Omegamon (X-Antibody)",
+			"line2": "Death X-Dorugoramon (1.5) to Omegamon (X-Antibody)",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/7/76/Omegamonx_vpet_penx.gif"
+		}],
+		"x2jogress": [
+		{
+			"code": "V2-1C99-F1A9",
+			"line1": "Growmon (X-Antibody) to Hisyaryumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/3/39/Hisharyuumon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1D29-51A9",
+			"line1": "Ginryumon to Hisyaryumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/3/39/Hisharyuumon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1E49-7339",
+			"line1": "Hisyaryumon to Ouryumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/3/39/Hisharyuumon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1DE9-62C9",
+			"line1": "SkullBaluchimon to DinoTigemon (2.0)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/c/c5/Dinotigemon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1DB9-92C9",
+			"line1": "MameTyramon to DinoTigemon (2.0)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/c/c5/Dinotigemon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0E49-8339",
+			"line1": "Triceramon (X-Antibody) (2nd or 3rd Gen) to Ultimate Brachimon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/6/6b/Ultimatebrachimon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-0EA9-E379",
+			"line1": "DinoTigemon to Dukemon (X-Antibody)",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/4/4a/Dukemonx_vpet_penx.gif"
+		}],
+		"x3jogress": [
+		{
+			"code": "X2-2D29-41A9",
+			"line1": "Raptordramon to Grademon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/6/6a/Grademon_vpet_penx.gif"
+		},
+		{
+			"code": "X2-2CC9-B1A9",
+			"line1": "Waspmon to Grademon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/6/6a/Grademon_vpet_penx.gif"
+		},
+		{
+			"code": "X2-2D59-E1D9",
+			"line1": "Ginryumon to Hisyaryumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/3/39/Hisharyuumon_vpet_penx.gif"
+		},
+		{
+			"code": "X2-2CF9-51D9",
+			"line1": "Omekamon to Hisyaryumon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/3/39/Hisharyuumon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-2DB9-82C9",
+			"line1": "Cannonbeemon to Tiger Vespamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/9/9f/Tigervespamon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-2DE9-72A9",
+			"line1": "Hisyaryumon to Tiger Vespamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/9/9f/Tigervespamon_vpet_penx.gif"
+		},
+		{
+			"code": "V2-1E49-7339",
+			"line1": "Alphamon to Tiger Vespamon",
+			"line2": "",
+			"line3": "",
+			"line4": "",
+			"image_url": "https://wikimon.net/images/9/9f/Tigervespamon_vpet_penx.gif"
+		},
+		{
+			"code": "X2-2E79-6309",
+			"line1": "Alphamon to Alphamon: Ouryuken",
+			"line2": "",
+			"line3": "",
+			"line4": "Need to feed 3+ Master tag and 1+ XX to Alphamon first.",
+			"image_url": "https://wikimon.net/images/e/e6/Alphamon_ouryuuken_vpet_penx.gif"
+		},
+		{
+			"code": "X2-2E49-9309",
+			"line1": "Ouryumon to Alphamon: Ouryuken",
+			"line2": "",
+			"line3": "",
+			"line4": "Need to feed 3+ Master tag and 1+ XX to Ouryumon first.",
+			"image_url": "https://wikimon.net/images/e/e6/Alphamon_ouryuuken_vpet_penx.gif"
+		}],
+		"x3evobattle": [
+		{
+			"code": "X2-0369-7F09-8009-@4^1^F9",
+			"line1": "Omegamon (X-Antibody) Battle",
+			"line2": "Shakes: 0",
+			"line3": "XAI: 3",
+			"line4": "v1.5",
+			"image_url": "https://wikimon.net/images/7/76/Omegamonx_vpet_penx.gif"
+		},
+		{
+			"code": "X2-1369-CF09-0009-@4^1^F9",
+			"line1": "Dukemon (X-Antibody) Battle",
+			"line2": "Shakes: 0",
+			"line3": "XAI: 3",
+			"line4": "v2.0",
+			"image_url": "https://wikimon.net/images/4/4a/Dukemonx_vpet_penx.gif"
+		},
+		{
+			"code": "X2-2299-9C49-8009-D059",
+			"line1": "Ouryumon Battle - No Blast Evo",
+			"line2": "Shakes: 0",
+			"line3": "XAI: 1",
+			"line4": "v3.0",
+			"image_url": "https://wikimon.net/images/3/3d/Ouryumon_vpet_penx.gif"
 		}]
 	},
 	"pen20":
