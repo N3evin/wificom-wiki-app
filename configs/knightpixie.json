@@ -1,71 +1,71 @@
 {
-	"shop": [
+	"woodweapons": [
 	{
-		"image_url": "wooden_sword.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_sword.png",
 		"line1": "Wooden sword(1 bronze)",
 		"line2": "A simple wooden sword",
 		"line3": "+1 attack",
 		"code": "8337163f-a2b1-4a5b-9f34-330acaffa5ae"
 	},
 	{
-		"image_url": "wooden_dagger.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_dagger.png",
 		"line1": "Wooden dagger(1 bronze)",
 		"line2": "A simple wooden dagger",
 		"line3": "+1 attack",
 		"code": "07eb9744-f7d2-4f4c-8598-66b552421977"
 	},
 	{
-		"image_url": "wooden_axe.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_axe.png",
 		"line1": "Wooden Axe(1 bronze)",
 		"line2": "A simple but hevay axe",
 		"line3": "+2 attack, -1 speed",
-		"code": ""
+		"code": "171a09e6-6865-4fa6-a8c6-8599d0f35cfb"
 	},
 	{
-		"image_url": "wooden_bow.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_bow.png",
 		"line1": "Wooden Bow(1 bronze)",
 		"line2": "Crafted by an experience hunter.",
 		"line3": "+1 dex",
 		"code": "66e9ff74-3b2c-4403-983e-bba7be518611"
 	},
 	{
-		"image_url": "wooden_staff.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_staff.png",
 		"line1": "Wooden Staff(1 bronze)",
 		"line2": "You can feel an aura around it.",
 		"line3": "+1 int",
 		"code": "3cc66ecc-d844-49ec-acf7-aaa2570443d9"
 	}],
-	"quest": [
+	"jobs": [
 	{
-		"image_url": "unkown.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/unkown.png",
 		"line1": "Quest of the swordmaster",
 		"line2": "Change job quest",
 		"line3": "",
 		"code": "eab616d3-1278-4f5e-b04b-7a7df26e97e9"
 	},
 	{
-		"image_url": "unkown.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/unkown.png",
 		"line1": "Library of the warlock",
 		"line2": "Change job quest",
 		"line3": "",
 		"code": "25a45ede-06dc-4caf-ae49-d478711f0a76"
 	},
 	{
-		"image_url": "unkown.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/unkown.png",
 		"line1": "Soul of the archer",
 		"line2": "Change job quest",
 		"line3": "",
 		"code": "706d85dd-4a15-4a92-bc2a-c5d9f81b010c"
 	},
 	{
-		"image_url": "unkown.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/unkown.png",
 		"line1": "Agenda of the thief",
 		"line2": "Change job quest",
 		"line3": "",
 		"code": "1a346740-7f07-4bff-a4ab-8c7dad25925e"
 	},
 	{
-		"image_url": "unkown.png",
+		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/unkown.png",
 		"line1": "Rage of the barbarian",
 		"line2": "Change job quest",
 		"line3": "",
