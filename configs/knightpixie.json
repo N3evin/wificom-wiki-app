@@ -2,35 +2,35 @@
 	"woodweapons": [
 	{
 		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_sword.png",
-		"line1": "Wooden sword(1 bronze)",
+		"line1": "Wooden sword (1 bronze)",
 		"line2": "A simple wooden sword",
 		"line3": "+1 attack",
-		"code": "8337163f-a2b1-4a5b-9f34-330acaffa5ae"
+		"code": "V1-F10E-FD02"
 	},
 	{
 		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_dagger.png",
-		"line1": "Wooden dagger(1 bronze)",
+		"line1": "Wooden dagger (1 bronze)",
 		"line2": "A simple wooden dagger",
 		"line3": "+1 attack",
 		"code": "07eb9744-f7d2-4f4c-8598-66b552421977"
 	},
 	{
 		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_axe.png",
-		"line1": "Wooden Axe(1 bronze)",
+		"line1": "Wooden Axe (1 bronze)",
 		"line2": "A simple but hevay axe",
 		"line3": "+2 attack, -1 speed",
 		"code": "171a09e6-6865-4fa6-a8c6-8599d0f35cfb"
 	},
 	{
 		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_bow.png",
-		"line1": "Wooden Bow(1 bronze)",
+		"line1": "Wooden Bow (1 bronze)",
 		"line2": "Crafted by an experience hunter.",
 		"line3": "+1 dex",
 		"code": "66e9ff74-3b2c-4403-983e-bba7be518611"
 	},
 	{
 		"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/knightpixie/wooden_staff.png",
-		"line1": "Wooden Staff(1 bronze)",
+		"line1": "Wooden Staff (1 bronze)",
 		"line2": "You can feel an aura around it.",
 		"line3": "+1 int",
 		"code": "3cc66ecc-d844-49ec-acf7-aaa2570443d9"
