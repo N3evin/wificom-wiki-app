@@ -8,7 +8,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm/agu.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm/agu.gif"
 		},
 		{
 			"code": "V1-B34C-FD02",
@@ -16,7 +16,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm/metalgrey_vi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm/metalgrey_vi.gif"
 		},
 		{
 			"code": "V1-B34C-FD01",
@@ -24,7 +24,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm/metalgrey_vi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm/metalgrey_vi.gif"
 		}]
 	},
 	"dm20":
@@ -36,7 +36,7 @@
 			"line2": "Version: A",
 			"line3": "Tamer Name: BLGR",
 			"line4": "Jogress Cres Garurumon into Omegamon Alter-S",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/blitzgrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/blitzgrey.gif"
 		},
 		{
 			"code": "V1-1203-0107-811E-07DE-000E-000E-000E-000E-000E-@000E",
@@ -44,7 +44,7 @@
 			"line2": "Version: B",
 			"line3": "Tamer Name: CRGA",
 			"line4": "Jogress Blitz Greymon into Omegamon Alter-S",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/cresgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/cresgaruru.gif"
 		},
 		{
 			"code": "V1-0501-0907-812E-0F8E-000E-000E-000E-000E-000E-@000E",
@@ -52,7 +52,7 @@
 			"line2": "Version: C",
 			"line3": "Tamer Name: AEGI",
 			"line4": "Jogress Mugendramon into Rust Tyranomon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/aegisdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/aegisdra.gif"
 		},
 		{
 			"code": "V1-150D-0507-813E-13AE-000E-000E-000E-000E-000E-@000E",
@@ -60,7 +60,7 @@
 			"line2": "Version: D",
 			"line3": "Tamer Name: MUGE",
 			"line4": "Jogress Aegisdramon into Rust Tyranomon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/mugendra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/mugendra.gif"
 		},
 		{
 			"code": "V1-0C13-1901-814E-17CE-000E-000E-000E-000E-000E-@000E",
@@ -68,7 +68,7 @@
 			"line2": "Version: E",
 			"line3": "Tamer Name: SLAY",
 			"line4": "Jogress Breakdramon into Examon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/slayerdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/slayerdra.gif"
 		},
 		{
 			"code": "V1-1202-0105-814E-18AE-000E-000E-000E-000E-000E-@000E",
@@ -76,7 +76,7 @@
 			"line2": "Version: E",
 			"line3": "Tamer Name: BREA",
 			"line4": "Jogress Slayerdramon into Examon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/breakdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/breakdra.gif"
 		},
 		{
 			"code": "V1-1001-0C0F-812E-1A0E-000E-000E-000E-000E-000E-@000E",
@@ -84,7 +84,7 @@
 			"line2": "Version: C",
 			"line3": "Tamer Name: APOL",
 			"line4": "Jogress Dianamon into Grace Novamon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/apollo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/apollo.gif"
 		},
 		{
 			"code": "V1-0904-0E01-813E-1B1E-000E-000E-000E-000E-000E-@000E",
@@ -92,7 +92,7 @@
 			"line2": "Version: D",
 			"line3": "Tamer Name: DIAN",
 			"line4": "Jogress Apollomon into Grace Novamon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/diana.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/diana.gif"
 		},
 		{
 			"code": "V1-0117-1207-810E-1C0E-000E-000E-000E-000E-000E-@000E",
@@ -100,7 +100,7 @@
 			"line2": "Version: A",
 			"line3": "Tamer Name: WARG",
 			"line4": "Jogress Metal Garurumon into Omegamon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/wargrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/wargrey.gif"
 		},
 		{
 			"code": "V1-050D-0107-811E-1D1E-000E-000E-000E-000E-000E-@000E",
@@ -108,7 +108,7 @@
 			"line2": "Version: B",
 			"line3": "Tamer Name: MEGA",
 			"line4": "Jogress War Greymon into Omegamon",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dm20/metalgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dm20/metalgaruru.gif"
 		}]
 	},
 	"dmc":
@@ -120,7 +120,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/blitzgrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/blitzgrey.gif"
 		},
 		{
 			"code": "C1-47444C4300000001000F00960002942F-47444C43000200000000000000009389",
@@ -128,7 +128,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/cresgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/cresgaruru.gif"
 		},
 		{
 			"code": "C1-47444C43000000020002001E000393AC-47444C43000200000000000000009389",
@@ -136,7 +136,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/pata.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/pata.gif"
 		},
 		{
 			"code": "C1-47444C43000000030002001E000393AD-47444C43000200000000000000009389",
@@ -144,7 +144,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/piyo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/piyo.gif"
 		},
 		{
 			"code": "C1-47444C43000000040002001E000393AE-47444C43000200000000000000009389",
@@ -152,7 +152,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/gazi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/gazi.gif"
 		}],
 		"unlock": [
 		{
@@ -161,7 +161,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/metalgrey_vi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/metalgrey_vi.gif"
 		},
 		{
 			"code": "C1-47444C4300000001000C007300019408-47444C4300020002000000000000938B",
@@ -169,7 +169,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/metalmame.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/metalmame.gif"
 		},
 		{
 			"code": "C1-47444C4300000002000B007300019408-47444C4300020002000000000000938B",
@@ -177,7 +177,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/andro.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/andro.gif"
 		},
 		{
 			"code": "C1-47444C4300000003000B007300019409-47444C4300020002000000000000938B",
@@ -185,7 +185,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/megadra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/megadra.gif"
 		},
 		{
 			"code": "C1-47444C4300000004000B00730001940A-47444C4300020002000000000000938B",
@@ -193,7 +193,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/metaltyrano.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/metaltyrano.gif"
 		}],
 		"jogress": [
 		{
@@ -202,7 +202,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/blitzgrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/blitzgrey.gif"
 		},
 		{
 			"code": "C1-47444C4300000001000F00730001940B-47444C4300020002000000000000938B",
@@ -210,7 +210,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/cresgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/cresgaruru.gif"
 		},
 		{
 			"code": "C1-47444C4300000002000E00730002940C-47444C4300020011000000000000939A",
@@ -218,7 +218,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/chimaira.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/chimaira.gif"
 		},
 		{
 			"code": "C1-47444C4300000002001100B400039451-47444C4300020006000000000000938F",
@@ -226,7 +226,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/bancholeo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/bancholeo.gif"
 		},
 		{
 			"code": "C1-47444C4300000003000E00AA00019443-47444C430002006900000000000093F2",
@@ -234,7 +234,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/darkdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/darkdra.gif"
 		},
 		{
 			"code": "C1-47444C4300000004000E00AA00019444-47444C430002001E00000000000093A7",
@@ -242,7 +242,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmc/mugendra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmc/mugendra.gif"
 		}]
 	},
 	"dmx":
@@ -254,7 +254,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/agu_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/agu_x.gif"
 		},
 		{
 			"code": "V1-801E-20DE-943E-143E-010E-@800E",
@@ -262,7 +262,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/gabu_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/gabu_x.gif"
 		},
 		{
 			"code": "V1-802E-20AE-003E-143E-016E-@800E",
@@ -270,7 +270,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/agu_b_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/agu_b_x.gif"
 		},
 		{
 			"code": "V1-803E-21EE-025E-14FE-016E-@800E",
@@ -278,7 +278,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/imp_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/imp_x.gif"
 		},
 		{
 			"code": "V1-804E-218E-952E-143E-014E-@800E",
@@ -286,7 +286,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/terrier_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/terrier_x.gif"
 		},
 		{
 			"code": "V1-805E-225E-592E-143E-014E-@800E",
@@ -294,7 +294,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/lop_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/lop_x.gif"
 		}],
 		"jogress": [
 		{
@@ -303,7 +303,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/gankoo_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/gankoo_x.gif"
 		},
 		{
 			"code": "V1-805E-B19E-324E-287E-0BEE-@800E",
@@ -311,7 +311,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dmx/jes_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dmx/jes_x.gif"
 		}]
 	},
 	"pen":
@@ -323,7 +323,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/agu.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/agu.gif"
 		},
 		{
 			"code": "V1-503F-01FF-09FF-@BDFF",
@@ -331,7 +331,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/omega.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/omega.gif"
 		}],
 		"jogress": [
 		{
@@ -340,7 +340,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/ikkaku.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/ikkaku.gif"
 		},
 		{
 			"code": "V2-547F-@D^0^0F",
@@ -348,7 +348,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/leo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/leo.gif"
 		},
 		{
 			"code": "V2-448F-@D^0^0F",
@@ -356,7 +356,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/tank.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/tank.gif"
 		},
 		{
 			"code": "V2-249F-@D^0^0F",
@@ -364,7 +364,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/wizar.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/wizar.gif"
 		},
 		{
 			"code": "V2-04AF-@D^0^0F",
@@ -372,7 +372,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/kuwaga.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/kuwaga.gif"
 		},
 		{
 			"code": "V2-34BF-@D^0^0F",
@@ -380,7 +380,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/redvegi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/redvegi.gif"
 		},
 		{
 			"code": "V2-14CF-@D^0^0F",
@@ -388,7 +388,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/zudo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/zudo.gif"
 		},
 		{
 			"code": "V2-34DF-@D^0^0F",
@@ -396,7 +396,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/garuda.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/garuda.gif"
 		},
 		{
 			"code": "V2-24EF-@D^0^0F",
@@ -404,7 +404,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/deathmera.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/deathmera.gif"
 		},
 		{
 			"code": "V2-44FF-@D^0^0F",
@@ -412,7 +412,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/bigmame.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/bigmame.gif"
 		},
 		{
 			"code": "V2-050F-@D^0^0F",
@@ -420,7 +420,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/okuwa.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/okuwa.gif"
 		},
 		{
 			"code": "V2-550F-@D^0^0F",
@@ -428,7 +428,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/holyange.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/holyange.gif"
 		},
 		{
 			"code": "V2-051F-@D^0^0F",
@@ -436,7 +436,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/tonosamageko.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/tonosamageko.gif"
 		},
 		{
 			"code": "V2-551F-@D^0^0F",
@@ -444,7 +444,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/angewo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/angewo.gif"
 		},
 		{
 			"code": "V2-552F-@D^0^0F",
@@ -452,7 +452,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/wargrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/wargrey.gif"
 		},
 		{
 			"code": "V2-553F-@D^0^0F",
@@ -460,7 +460,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen/metalgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen/metalgaruru.gif"
 		}]
 	},
 	"pencycle":
@@ -472,7 +472,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pencycle/garuru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pencycle/garuru.gif"
 		},
 		{
 			"code": "V2-9261-9081",
@@ -480,7 +480,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pencycle/mera.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pencycle/mera.gif"
 		},
 		{
 			"code": "V2-7241-C0A2",
@@ -488,7 +488,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pencycle/devi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pencycle/devi.gif"
 		}]
 	},
 	"penx":
@@ -500,7 +500,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/kuwaga_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/kuwaga_x.gif"
 		},
 		{
 			"code": "X1-0159-4379-0009-C1F9",
@@ -508,7 +508,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/kuwaga_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/kuwaga_x.gif"
 		},
 		{
 			"code": "X1-0249-E589-0009-F009",
@@ -516,7 +516,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/okuwa_x.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/okuwa_x.gif"
 		}],
 		"trade": [
 		{
@@ -525,7 +525,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up, Strength up, Adds +2 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/meatm.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/meatm.gif"
 		},
 		{
 			"code": "X2-0439-9009",
@@ -533,7 +533,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach Extra full a lot. Adds +3 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/meatl.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/meatl.gif"
 		},
 		{
 			"code": "X2-0449-8009",
@@ -541,7 +541,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up a small bit, Strength UP, Adds +6 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/proteinplus.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/proteinplus.gif"
 		},
 		{
 			"code": "X2-0459-7009",
@@ -549,7 +549,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up a small bit, Strength to MAX, Adds +20 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/strmax.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/strmax.gif"
 		},
 		{
 			"code": "X2-0469-6009",
@@ -557,7 +557,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/aquaorb.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/aquaorb.gif"
 		},
 		{
 			"code": "X2-0479-5009",
@@ -565,7 +565,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/metalrise.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/metalrise.gif"
 		},
 		{
 			"code": "X2-0489-4009",
@@ -573,7 +573,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/skywings.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/skywings.gif"
 		},
 		{
 			"code": "X2-0499-3009",
@@ -581,7 +581,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach to MAX, Strength to Zero, Decreases weight -30, and sickness.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/zombiemeat.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/zombiemeat.gif"
 		},
 		{
 			"code": "X2-04A9-2009",
@@ -589,7 +589,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach up, Strength up, Adds +10 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/forestleaf.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/forestleaf.gif"
 		},
 		{
 			"code": "X2-04B9-1009",
@@ -597,7 +597,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Stomach and Strength to 0, Decreases weight, Number of near death experiences are reset.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/dpoison.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/dpoison.gif"
 		},
 		{
 			"code": "X2-04C9-0009",
@@ -605,7 +605,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach to MAX, Strength Extra full, Add +10 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/choenergy.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/choenergy.gif"
 		},
 		{
 			"code": "X2-04D9-F009",
@@ -613,7 +613,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Fills Stomach to MAX, Decreases weight -10.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/mastertag.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/mastertag.gif"
 		},
 		{
 			"code": "X2-04E9-E009",
@@ -621,7 +621,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Randomly evolves Adult to Perfect. Strength/Hunger is Zero, Adds +10 to weight.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/evo5.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/evo5.gif"
 		},
 		{
 			"code": "X2-04F9-D009",
@@ -629,7 +629,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Randomly evolves your to previous level. Stomach to MAX, weight -10.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/levelreverse.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/levelreverse.gif"
 		}],
 		"x1jogress": [
 		{
@@ -638,7 +638,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Doruguremon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Doruguremon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0C99-2189",
@@ -646,7 +646,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Doruguremon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Doruguremon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0CF9-3209",
@@ -654,7 +654,7 @@
 			"line2": "Death-X Dorugamon (1.5) to MegaSeadramon (X-Antibody)",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Megaseadramonx_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Megaseadramonx_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0CC9-6209",
@@ -662,7 +662,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Megaseadramonx_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Megaseadramonx_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0D89-2279",
@@ -670,7 +670,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Dorugoramon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Dorugoramon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0E49-5279",
@@ -678,7 +678,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Dorugoramon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Dorugoramon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0DE9-92A9",
@@ -686,7 +686,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Alphamon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Alphamon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0DE9-92A9",
@@ -694,7 +694,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Death-x-dorugoramon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Death-x-dorugoramon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1E49-7339",
@@ -702,7 +702,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Grandiskuwagamon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Grandiskuwagamon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1EA9-D379",
@@ -710,7 +710,7 @@
 			"line2": "Death X-Dorugoramon (1.5) to Omegamon (X-Antibody)",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Omegamonx_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Omegamonx_vpet_penx.gif"
 		}],
 		"x2jogress": [
 		{
@@ -719,7 +719,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Hisharyuumon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Hisharyuumon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1D29-51A9",
@@ -727,7 +727,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Hisharyuumon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Hisharyuumon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1E49-7339",
@@ -735,7 +735,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Hisharyuumon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Hisharyuumon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1DE9-62C9",
@@ -743,7 +743,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Dinotigemon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Dinotigemon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1DB9-92C9",
@@ -751,7 +751,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Dinotigemon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Dinotigemon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0E49-8339",
@@ -759,7 +759,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Ultimatebrachimon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Ultimatebrachimon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-0EA9-E379",
@@ -767,7 +767,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Dukemonx_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Dukemonx_vpet_penx.gif"
 		}],
 		"x3jogress": [
 		{
@@ -776,7 +776,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Grademon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Grademon_vpet_penx.gif"
 		},
 		{
 			"code": "X2-2CC9-B1A9",
@@ -784,7 +784,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Grademon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Grademon_vpet_penx.gif"
 		},
 		{
 			"code": "X2-2D59-E1D9",
@@ -792,7 +792,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Hisharyuumon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Hisharyuumon_vpet_penx.gif"
 		},
 		{
 			"code": "X2-2CF9-51D9",
@@ -800,7 +800,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Hisharyuumon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Hisharyuumon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-2DB9-82C9",
@@ -808,7 +808,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Tigervespamon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Tigervespamon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-2DE9-72A9",
@@ -816,7 +816,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Tigervespamon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Tigervespamon_vpet_penx.gif"
 		},
 		{
 			"code": "V2-1E49-7339",
@@ -824,7 +824,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Tigervespamon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Tigervespamon_vpet_penx.gif"
 		},
 		{
 			"code": "X2-2E79-6309",
@@ -832,7 +832,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Need to feed 3+ Master tag and 1+ XX to Alphamon first.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Alphamon_ouryuuken_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Alphamon_ouryuuken_vpet_penx.gif"
 		},
 		{
 			"code": "X2-2E49-9309",
@@ -840,7 +840,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Need to feed 3+ Master tag and 1+ XX to Ouryumon first.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Alphamon_ouryuuken_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Alphamon_ouryuuken_vpet_penx.gif"
 		}],
 		"x3evobattle": [
 		{
@@ -849,7 +849,7 @@
 			"line2": "Shakes: 0",
 			"line3": "XAI: 3",
 			"line4": "v1.5",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Omegamonx_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Omegamonx_vpet_penx.gif"
 		},
 		{
 			"code": "X2-1369-CF09-0009-@4^1^F9",
@@ -857,7 +857,7 @@
 			"line2": "Shakes: 0",
 			"line3": "XAI: 3",
 			"line4": "v2.0",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Dukemonx_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Dukemonx_vpet_penx.gif"
 		},
 		{
 			"code": "X2-2299-9C49-8009-D059",
@@ -865,7 +865,7 @@
 			"line2": "Shakes: 0",
 			"line3": "XAI: 1",
 			"line4": "v3.0",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penx/Ouryumon_vpet_penx.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penx/Ouryumon_vpet_penx.gif"
 		}]
 	},
 	"pen20":
@@ -877,7 +877,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/ikkaku.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/ikkaku.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-0DDE-000E-000E-000E-000E-000E-@000E",
@@ -885,7 +885,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/wizar.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/wizar.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-242E-000E-000E-000E-000E-000E-@000E",
@@ -893,7 +893,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/grow.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/grow.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-1BCE-000E-000E-000E-000E-000E-@000E",
@@ -901,7 +901,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/cyberdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/cyberdra.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-155E-000E-000E-000E-000E-000E-@000E",
@@ -909,7 +909,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/delu.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/delu.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-04AE-000E-000E-000E-000E-000E-@000E",
@@ -917,7 +917,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/okuwa.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/okuwa.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-1C0E-000E-000E-000E-000E-000E-@000E",
@@ -925,7 +925,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/wargrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/wargrey.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-1C5E-000E-000E-000E-000E-000E-@000E",
@@ -933,7 +933,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/metalgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/metalgaruru.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-112E-000E-000E-000E-000E-000E-@000E",
@@ -941,7 +941,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/de.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/de.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-22AE-000E-000E-000E-000E-000E-@000E",
@@ -949,7 +949,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/belphe.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/belphe.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-0FEE-000E-000E-000E-000E-000E-@000E",
@@ -957,7 +957,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/vamde.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/vamde.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-116E-000E-000E-000E-000E-000E-@000E",
@@ -965,7 +965,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/pie.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/pie.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-28CE-000E-000E-000E-000E-000E-@000E",
@@ -973,7 +973,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/duranda.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/duranda.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-311E-000E-000E-000E-000E-000E-@000E",
@@ -981,7 +981,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/bryweludra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/bryweludra.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-358E-000E-000E-000E-000E-000E-@000E",
@@ -989,7 +989,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/ouryu.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/ouryu.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-388E-000E-000E-000E-000E-000E-@000E",
@@ -997,7 +997,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/alpha.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/alpha.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-171E-000E-000E-000E-000E-000E-@000E",
@@ -1005,7 +1005,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/rose.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/rose.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-36DE-000E-000E-000E-000E-000E-@000E",
@@ -1013,7 +1013,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/lotus.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/lotus.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-04CE-000E-000E-000E-000E-000E-@000E",
@@ -1021,7 +1021,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/angewo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/angewo.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-106E-000E-000E-000E-000E-000E-@000E",
@@ -1029,7 +1029,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/ladydevi.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/ladydevi.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-298E-000E-000E-000E-000E-000E-@000E",
@@ -1037,7 +1037,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/bancholeo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/bancholeo.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-2CAE-000E-000E-000E-000E-000E-@000E",
@@ -1045,7 +1045,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/darkdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/darkdra.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-2C0E-000E-000E-000E-000E-000E-@000E",
@@ -1053,7 +1053,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/slayerdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/slayerdra.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-2C6E-000E-000E-000E-000E-000E-@000E",
@@ -1061,7 +1061,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/breakdra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/breakdra.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-38CE-000E-000E-000E-000E-000E-@000E",
@@ -1069,7 +1069,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/omega.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/omega.gif"
 		},
 		{
 			"code": "V1-0101-0101-816E-39FE-000E-000E-000E-000E-000E-@000E",
@@ -1077,7 +1077,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/imperialdra_f.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/imperialdra_f.gif"
 		}],
 		"battle": [
 		{
@@ -1086,7 +1086,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/alpha.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/alpha.gif"
 		},
 		{
 			"code": "V1-006E-2D4E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
@@ -1094,7 +1094,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/terrier.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/terrier.gif"
 		},
 		{
 			"code": "V1-008E-2A8E-000E-000E-000E-000E-000E-000E-000E-@CF0E",
@@ -1102,7 +1102,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/pen20/agu_h.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/pen20/agu_h.gif"
 		}]
 	},
 	"penz":
@@ -1114,7 +1114,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/sunariza.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/sunariza.gif"
 		},
 		{
 			"code": "V1-837E-279E-BCEE-14BE-00EE-@800E",
@@ -1122,7 +1122,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/sango.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/sango.gif"
 		},
 		{
 			"code": "V1-838E-2D9E-45BE-156E-00EE-@800E",
@@ -1130,7 +1130,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/ghost.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/ghost.gif"
 		},
 		{
 			"code": "V1-839E-2D9E-45BE-156E-00EE-@800E",
@@ -1138,7 +1138,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/pomu.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/pomu.gif"
 		},
 		{
 			"code": "V1-83AE-2D9E-45BE-156E-00EE-@800E",
@@ -1146,7 +1146,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/junk.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/junk.gif"
 		},
 		{
 			"code": "V1-83BE-2D9E-45BE-156E-00EE-@800E",
@@ -1154,7 +1154,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/shout.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/shout.gif"
 		}],
 		"jogress": [
 		{
@@ -1163,7 +1163,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/mach.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/mach.gif"
 		},
 		{
 			"code": "V2-04^0E-4E9E-@E00E",
@@ -1171,7 +1171,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/witch.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/witch.gif"
 		},
 		{
 			"code": "V2-04^0E-4EEE-@E00E",
@@ -1179,7 +1179,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/mimic.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/mimic.gif"
 		},
 		{
 			"code": "V2-04^0E-57BE-@E00E",
@@ -1187,7 +1187,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/vritra.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/vritra.gif"
 		},
 		{
 			"code": "V2-04^0E-6A0E-@E00E",
@@ -1195,7 +1195,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/marinchimaira.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/marinchimaira.gif"
 		},
 		{
 			"code": "V2-04^0E-63DE-@E00E",
@@ -1203,7 +1203,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/scorpio.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/scorpio.gif"
 		},
 		{
 			"code": "V2-04^0E-63AE-@E00E",
@@ -1211,7 +1211,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/toropia.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/toropia.gif"
 		},
 		{
 			"code": "V2-04^0E-77BE-@E00E",
@@ -1219,7 +1219,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/beowolf.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/beowolf.gif"
 		},
 		{
 			"code": "V2-2C6E-430E-@E00E",
@@ -1227,7 +1227,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/tail.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/tail.gif"
 		},
 		{
 			"code": "V2-2C7E-49FE-@E00E",
@@ -1235,7 +1235,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/ankylo.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/ankylo.gif"
 		},
 		{
 			"code": "V2-2C8E-503E-@E00E",
@@ -1243,7 +1243,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/sting.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/sting.gif"
 		},
 		{
 			"code": "V2-2C9E-433E-@E00E",
@@ -1251,7 +1251,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/aquila.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/aquila.gif"
 		},
 		{
 			"code": "V2-2CAE-494E-@E00E",
@@ -1259,7 +1259,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/xv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/xv.gif"
 		},
 		{
 			"code": "V2-2CBE-4F8E-@E00E",
@@ -1267,7 +1267,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/ange.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/ange.gif"
 		},
 		{
 			"code": "V2-047E-984E-@E00E",
@@ -1275,7 +1275,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/wargrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/wargrey.gif"
 		},
 		{
 			"code": "V2-049E-985E-@E00E",
@@ -1283,7 +1283,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/metalgaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/metalgaruru.gif"
 		},
 		{
 			"code": "V2-047E-98BE-@E00E",
@@ -1291,7 +1291,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/kaisergrey.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/kaisergrey.gif"
 		},
 		{
 			"code": "V2-049E-98BE-@E00E",
@@ -1299,7 +1299,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/magnagaruru.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/magnagaruru.gif"
 		},
 		{
 			"code": "V2-04^0E-B44E-@E00E",
@@ -1307,7 +1307,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/omega.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/omega.gif"
 		},
 		{
 			"code": "V2-048E-963E-@E00E",
@@ -1315,7 +1315,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/penz/imperialdra_f.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/penz/imperialdra_f.gif"
 		}]
 	},
 	"progress":
@@ -1327,7 +1327,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Paildramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Paildramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-81A1-EA51",
@@ -1335,7 +1335,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Angewomon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Angewomon_vpet_dv.gif"
 		},
 		{
 			"code": "V2-81A1-EA51",
@@ -1343,7 +1343,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Mihiramon_vpet_darc.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Mihiramon_vpet_darc.gif"
 		},
 		{
 			"code": "V2-81B1-1A11",
@@ -1351,7 +1351,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Megadramon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Megadramon_vpet_dv.gif"
 		},
 		{
 			"code": "V2-81B1-1A11",
@@ -1359,7 +1359,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Andiramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Andiramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-81B1-1A11",
@@ -1367,7 +1367,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Cerberumonx_vpet_penp.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Cerberumonx_vpet_penp.gif"
 		},
 		{
 			"code": "V2-01A1-AA1F",
@@ -1375,7 +1375,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Paildramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Paildramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-01B1-5A5F",
@@ -1383,7 +1383,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Megadramon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Megadramon_vpet_dv.gif"
 		},
 		{
 			"code": "V2-91A1-1A11",
@@ -1391,7 +1391,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Angewomon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Angewomon_vpet_dv.gif"
 		},
 		{
 			"code": "V2-11B1-4A5F",
@@ -1399,7 +1399,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Andiramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Andiramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-0211-AB8F",
@@ -1407,7 +1407,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Imperialdramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Imperialdramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-0251-FBFF",
@@ -1415,7 +1415,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Megidramon_vpet_darc.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Megidramon_vpet_darc.gif"
 		},
 		{
 			"code": "V2-1251-EBFF",
@@ -1423,7 +1423,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Cherubimon_good_vpet_penp.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Cherubimon_good_vpet_penp.gif"
 		},
 		{
 			"code": "V2-1211-9B8F",
@@ -1431,7 +1431,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Seraphimon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Seraphimon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8211-BBF1",
@@ -1439,7 +1439,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Imperialdramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Imperialdramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8211-BBF1",
@@ -1447,7 +1447,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Seraphimon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Seraphimon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8211-BBF1",
@@ -1455,7 +1455,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Qinglongmon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Qinglongmon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8251-EB81",
@@ -1463,7 +1463,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Megidramon_vpet_darc.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Megidramon_vpet_darc.gif"
 		},
 		{
 			"code": "V2-8251-EB81",
@@ -1471,7 +1471,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Cherubimon_good_vpet_penp.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Cherubimon_good_vpet_penp.gif"
 		},
 		{
 			"code": "V2-8251-EB81",
@@ -1479,7 +1479,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/progress/Baihumon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/progress/Baihumon_vpet_d3.gif"
 		}]
 	},
 	"accel":
@@ -1491,7 +1491,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/accel/Khaosmon_vpet_accel.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/accel/Khaosmon_vpet_accel.gif"
 		},
 		{
 			"code": "X2-3D8A-A1DA",
@@ -1499,7 +1499,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/accel/Khaosmon_vpet_accel.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/accel/Khaosmon_vpet_accel.gif"
 		}],
 		"battle": [
 		{
@@ -1508,7 +1508,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/accel/digitama_c2.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/accel/digitama_c2.gif"
 		}]
 	},
 	"mini":
@@ -1520,7 +1520,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/mini/digitama_c2.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/mini/digitama_c2.gif"
 		}]
 	},
 	"adventure":
@@ -1532,7 +1532,7 @@
 			"line2": "Skip Adult (Champion) battle requirement.",
 			"line3": "",
 			"line4": "Battle that code with each Child (Rookie) who hasn’t unlocked Adult (Champion)",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/adventure/Vdramon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/adventure/Vdramon_vpet_dv.gif"
 		}],
 		"complete15": [
 		{
@@ -1541,7 +1541,7 @@
 			"line2": "SkipAdult (Champion) battle requirement",
 			"line3": "",
 			"line4": "Battle that code with each Child (Rookie) who hasn’t unlocked Adult (Champion)",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/adventure/Meicoomon_vpet_dark.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/adventure/Meicoomon_vpet_dark.gif"
 		},
 		{
 			"code": "v1-FF00-FA05-03FC-FF00",
@@ -1549,7 +1549,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "use battle",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/adventure/Crest_courage_vpet_Digivice.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/adventure/Crest_courage_vpet_Digivice.gif"
 		}]
 	},
 	"d3":
@@ -1561,7 +1561,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "Battle that code with each Child (Rookie) who hasn’t unlocked Adult (Champion)",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Xvmon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Xvmon_vpet_d3.gif"
 		},
 		{
 			"code": "v2-FF00-FF00-03FC-FF00",
@@ -1569,7 +1569,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "After first use, using the same code on the D-3 will unlock a secret second cutscene.",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Imperialdramon_paladinmode_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Imperialdramon_paladinmode_vpet_d3.gif"
 		}],
 		"digimental": [
 		{
@@ -1578,7 +1578,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_courage_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_courage_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C1F-380F",
@@ -1586,7 +1586,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_friendship_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_friendship_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C2F-280F",
@@ -1594,7 +1594,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_miracles_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_miracles_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C3F-180F",
@@ -1602,7 +1602,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_love_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_love_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C4F-080F",
@@ -1610,7 +1610,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_purity_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_purity_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C5F-F80F",
@@ -1618,7 +1618,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_knowledge_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_knowledge_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C6F-E80F",
@@ -1626,7 +1626,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_sincerity_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_sincerity_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C7F-D80F",
@@ -1634,7 +1634,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_light_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_light_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C8F-C80F",
@@ -1642,7 +1642,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_hope_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_hope_vpet_d3.gif"
 		},
 		{
 			"code": "V2-8C9F-B80F",
@@ -1650,7 +1650,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Digimental_kindness_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Digimental_kindness_vpet_d3.gif"
 		}],
 		"jogress": [
 		{
@@ -1659,7 +1659,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Paildramon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Paildramon_vpet_d3.gif"
 		},
 		{
 			"code": "V2-840F-C80F",
@@ -1667,7 +1667,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/d3/Dinobeemon_vpet_d3.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/d3/Dinobeemon_vpet_d3.gif"
 		}]
 	},
 	"dscanner":
@@ -1681,7 +1681,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Paildramon_vpet_d3.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Paildramon_vpet_d3.gif"
 			},
 			{
 				"code": "V1-8211-2B81",
@@ -1689,7 +1689,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Imperialdramon_vpet_d3.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Imperialdramon_vpet_d3.gif"
 			},
 			{
 				"code": "V1-81B1",
@@ -1697,7 +1697,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Megadramon_vpet_dv.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Megadramon_vpet_dv.gif"
 			},
 			{
 				"code": "V1-8251-7BF1",
@@ -1705,7 +1705,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Megidramon_vpet_darc.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Megidramon_vpet_darc.gif"
 			}],
 			"v2": [
 			{
@@ -1714,7 +1714,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Angewomon_vpet_dv.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Angewomon_vpet_dv.gif"
 			},
 			{
 				"code": "V1-9211",
@@ -1722,7 +1722,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Seraphimon_vpet_d3.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Seraphimon_vpet_d3.gif"
 			},
 			{
 				"code": "V1-91B1",
@@ -1730,7 +1730,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Andiramon_vpet_d3.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Andiramon_vpet_d3.gif"
 			},
 			{
 				"code": "V1-9251",
@@ -1738,7 +1738,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Cherubimon_evil_vpet_d3.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Cherubimon_evil_vpet_d3.gif"
 			}],
 			"v3": [
 			{
@@ -1747,7 +1747,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Silphymon_vpet_d3.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Silphymon_vpet_d3.gif"
 			},
 			{
 				"code": "V1-8211-2B8F",
@@ -1755,7 +1755,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Slashangemon_vpet_dscan.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Slashangemon_vpet_dscan.gif"
 			},
 			{
 				"code": "V1-91B1",
@@ -1763,7 +1763,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Hippogriffomon_vpet_dscan.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Hippogriffomon_vpet_dscan.gif"
 			},
 			{
 				"code": "V1-9211",
@@ -1771,7 +1771,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/Huanlongmon_vpet_dscan.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/Huanlongmon_vpet_dscan.gif"
 			}]
 		},
 		"infrared":
@@ -1783,7 +1783,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000010111",
@@ -1791,7 +1791,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000020122",
@@ -1799,7 +1799,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000030111",
@@ -1807,7 +1807,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000040111",
@@ -1815,7 +1815,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000050112",
@@ -1823,7 +1823,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000060111",
@@ -1831,7 +1831,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000070111",
@@ -1839,7 +1839,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000080111",
@@ -1847,7 +1847,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000090111",
@@ -1855,7 +1855,7 @@
 				"line2": "V1 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000100111",
@@ -1863,7 +1863,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000110111",
@@ -1871,7 +1871,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000120112",
@@ -1879,7 +1879,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000130111",
@@ -1887,7 +1887,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000140111",
@@ -1895,7 +1895,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000150121",
@@ -1903,7 +1903,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000160111",
@@ -1911,7 +1911,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000170111",
@@ -1919,7 +1919,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000180111",
@@ -1927,7 +1927,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000190111",
@@ -1935,7 +1935,7 @@
 				"line2": "V1 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000200111",
@@ -1943,7 +1943,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000210111",
@@ -1951,7 +1951,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000220111",
@@ -1959,7 +1959,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000230111",
@@ -1967,7 +1967,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000240111",
@@ -1975,7 +1975,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000250111",
@@ -1983,7 +1983,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000260111",
@@ -1991,7 +1991,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000270111",
@@ -1999,7 +1999,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000280121",
@@ -2007,7 +2007,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000290112",
@@ -2015,7 +2015,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000300117",
@@ -2023,7 +2023,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000310121",
@@ -2031,7 +2031,7 @@
 				"line2": "V1 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000320111",
@@ -2039,7 +2039,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000330111",
@@ -2047,7 +2047,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000340111",
@@ -2055,7 +2055,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000350111",
@@ -2063,7 +2063,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000360112",
@@ -2071,7 +2071,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000370111",
@@ -2079,7 +2079,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000380111",
@@ -2087,7 +2087,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000390111",
@@ -2095,7 +2095,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000400111",
@@ -2103,7 +2103,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000410111",
@@ -2111,7 +2111,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000420111",
@@ -2119,7 +2119,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000430112",
@@ -2127,7 +2127,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000440121",
@@ -2135,7 +2135,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000450111",
@@ -2143,7 +2143,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000460111",
@@ -2151,7 +2151,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000470111",
@@ -2159,7 +2159,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000480112",
@@ -2167,7 +2167,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000490111",
@@ -2175,7 +2175,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000500112",
@@ -2183,7 +2183,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000510111",
@@ -2191,7 +2191,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000520111",
@@ -2199,7 +2199,7 @@
 				"line2": "V1 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000530111",
@@ -2207,7 +2207,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000540111",
@@ -2215,7 +2215,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000550116",
@@ -2223,7 +2223,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000560111",
@@ -2231,7 +2231,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000570122",
@@ -2239,7 +2239,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000580111",
@@ -2247,7 +2247,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000590111",
@@ -2255,7 +2255,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000600121",
@@ -2263,7 +2263,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000610111",
@@ -2271,7 +2271,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000620111",
@@ -2279,7 +2279,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000630111",
@@ -2287,7 +2287,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000640111",
@@ -2295,7 +2295,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000650111",
@@ -2303,7 +2303,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000660111",
@@ -2311,7 +2311,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000670112",
@@ -2319,7 +2319,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000680111",
@@ -2327,7 +2327,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000690111",
@@ -2335,7 +2335,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000700111",
@@ -2343,7 +2343,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000710111",
@@ -2351,7 +2351,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000720113",
@@ -2359,7 +2359,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000730121",
@@ -2367,7 +2367,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000740112",
@@ -2375,7 +2375,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000750111",
@@ -2383,7 +2383,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000760111",
@@ -2391,7 +2391,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000770111",
@@ -2399,7 +2399,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000780111",
@@ -2407,7 +2407,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000790111",
@@ -2415,7 +2415,7 @@
 				"line2": "V1 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			}],
 			"v2": [
 			{
@@ -2424,7 +2424,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000010222",
@@ -2432,7 +2432,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000020211",
@@ -2440,7 +2440,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000030211",
@@ -2448,7 +2448,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000040212",
@@ -2456,7 +2456,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000050211",
@@ -2464,7 +2464,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000060211",
@@ -2472,7 +2472,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000070211",
@@ -2480,7 +2480,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000080211",
@@ -2488,7 +2488,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000090211",
@@ -2496,7 +2496,7 @@
 				"line2": "V2 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000100212",
@@ -2504,7 +2504,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000120211",
@@ -2512,7 +2512,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000140221",
@@ -2520,7 +2520,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000160211",
@@ -2528,7 +2528,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000180211",
@@ -2536,7 +2536,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000110212",
@@ -2544,7 +2544,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000130211",
@@ -2552,7 +2552,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000150211",
@@ -2560,7 +2560,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000170211",
@@ -2568,7 +2568,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000190211",
@@ -2576,7 +2576,7 @@
 				"line2": "V2 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000200211",
@@ -2584,7 +2584,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000210211",
@@ -2592,7 +2592,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000220211",
@@ -2600,7 +2600,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000230211",
@@ -2608,7 +2608,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000240211",
@@ -2616,7 +2616,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000250211",
@@ -2624,7 +2624,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000260211",
@@ -2632,7 +2632,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000270221",
@@ -2640,7 +2640,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000280211",
@@ -2648,7 +2648,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000290211",
@@ -2656,7 +2656,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000300211",
@@ -2664,7 +2664,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000310211",
@@ -2672,7 +2672,7 @@
 				"line2": "V2 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000320211",
@@ -2680,7 +2680,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000330211",
@@ -2688,7 +2688,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000340211",
@@ -2696,7 +2696,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000350212",
@@ -2704,7 +2704,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000360211",
@@ -2712,7 +2712,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000370211",
@@ -2720,7 +2720,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000380211",
@@ -2728,7 +2728,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000390211",
@@ -2736,7 +2736,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000400211",
@@ -2744,7 +2744,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000410211",
@@ -2752,7 +2752,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000420212",
@@ -2760,7 +2760,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000430221",
@@ -2768,7 +2768,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000440211",
@@ -2776,7 +2776,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000450211",
@@ -2784,7 +2784,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000460211",
@@ -2792,7 +2792,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000470211",
@@ -2800,7 +2800,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000480211",
@@ -2808,7 +2808,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000490211",
@@ -2816,7 +2816,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000500210",
@@ -2824,7 +2824,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000510211",
@@ -2832,7 +2832,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000520211",
@@ -2840,7 +2840,7 @@
 				"line2": "V2 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000530211",
@@ -2848,7 +2848,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000540211",
@@ -2856,7 +2856,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000550211",
@@ -2864,7 +2864,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000560222",
@@ -2872,7 +2872,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000570211",
@@ -2880,7 +2880,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000580211",
@@ -2888,7 +2888,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000590212",
@@ -2896,7 +2896,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000600211",
@@ -2904,7 +2904,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000610211",
@@ -2912,7 +2912,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000620211",
@@ -2920,7 +2920,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000630211",
@@ -2928,7 +2928,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000640211",
@@ -2936,7 +2936,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000650211",
@@ -2944,7 +2944,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000660212",
@@ -2952,7 +2952,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000670211",
@@ -2960,7 +2960,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000680211",
@@ -2968,7 +2968,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000690221",
@@ -2976,7 +2976,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000700211",
@@ -2984,7 +2984,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000710211",
@@ -2992,7 +2992,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000720221",
@@ -3000,7 +3000,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000730211",
@@ -3008,7 +3008,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000740211",
@@ -3016,7 +3016,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000750211",
@@ -3024,7 +3024,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000760211",
@@ -3032,7 +3032,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000770211",
@@ -3040,7 +3040,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000780211",
@@ -3048,7 +3048,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000790211",
@@ -3056,7 +3056,7 @@
 				"line2": "V2 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			}],
 			"v3": [
 			{
@@ -3065,7 +3065,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000740311",
@@ -3073,7 +3073,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000750311",
@@ -3081,7 +3081,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000760311",
@@ -3089,7 +3089,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000770311",
@@ -3097,7 +3097,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000780311",
@@ -3105,7 +3105,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000790311",
@@ -3113,7 +3113,7 @@
 				"line2": "V3 Rookie",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000010311",
@@ -3121,7 +3121,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000020311",
@@ -3129,7 +3129,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000030311",
@@ -3137,7 +3137,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000040311",
@@ -3145,7 +3145,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000050312",
@@ -3153,7 +3153,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000060311",
@@ -3161,7 +3161,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000070311",
@@ -3169,7 +3169,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000080311",
@@ -3177,7 +3177,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000090311",
@@ -3185,7 +3185,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000100312",
@@ -3193,7 +3193,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000110312",
@@ -3201,7 +3201,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000120311",
@@ -3209,7 +3209,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000130312",
@@ -3217,7 +3217,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000140312",
@@ -3225,7 +3225,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000150311",
@@ -3233,7 +3233,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000160311",
@@ -3241,7 +3241,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000170311",
@@ -3249,7 +3249,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000180311",
@@ -3257,7 +3257,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000190311",
@@ -3265,7 +3265,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000200312",
@@ -3273,7 +3273,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000210312",
@@ -3281,7 +3281,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000220311",
@@ -3289,7 +3289,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000230311",
@@ -3297,7 +3297,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000240311",
@@ -3305,7 +3305,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000250311",
@@ -3313,7 +3313,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000260311",
@@ -3321,7 +3321,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000270312",
@@ -3329,7 +3329,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000280311",
@@ -3337,7 +3337,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000290311",
@@ -3345,7 +3345,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000300312",
@@ -3353,7 +3353,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000310322",
@@ -3361,7 +3361,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000320321",
@@ -3369,7 +3369,7 @@
 				"line2": "V3 Hybrid",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000610311",
@@ -3377,7 +3377,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000620311",
@@ -3385,7 +3385,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000630311",
@@ -3393,7 +3393,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000640311",
@@ -3401,7 +3401,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000650311",
@@ -3409,7 +3409,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000660311",
@@ -3417,7 +3417,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000680312",
@@ -3425,7 +3425,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000690311",
@@ -3433,7 +3433,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000700311",
@@ -3441,7 +3441,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000710311",
@@ -3449,7 +3449,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000720311",
@@ -3457,7 +3457,7 @@
 				"line2": "V3 Champion",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000520311",
@@ -3465,7 +3465,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000530311",
@@ -3473,7 +3473,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000540311",
@@ -3481,7 +3481,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000550311",
@@ -3489,7 +3489,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000560312",
@@ -3497,7 +3497,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000570311",
@@ -3505,7 +3505,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000580311",
@@ -3513,7 +3513,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000590311",
@@ -3521,7 +3521,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000600322",
@@ -3529,7 +3529,7 @@
 				"line2": "V3 Ultimate",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000430311",
@@ -3537,7 +3537,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000440311",
@@ -3545,7 +3545,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000450311",
@@ -3553,7 +3553,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000460311",
@@ -3561,7 +3561,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000000311",
@@ -3569,7 +3569,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000470311",
@@ -3577,7 +3577,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000480311",
@@ -3585,7 +3585,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000490311",
@@ -3593,7 +3593,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000500311",
@@ -3601,7 +3601,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000510311",
@@ -3609,7 +3609,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000330311",
@@ -3617,7 +3617,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000340311",
@@ -3625,7 +3625,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000350311",
@@ -3633,7 +3633,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000360311",
@@ -3641,7 +3641,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000370311",
@@ -3649,7 +3649,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000380311",
@@ -3657,7 +3657,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000390311",
@@ -3665,7 +3665,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000400311",
@@ -3673,7 +3673,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000410311",
@@ -3681,7 +3681,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000000420311",
@@ -3689,7 +3689,7 @@
 				"line2": "V3 Mega",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			}],
 			"item": [
 			{
@@ -3698,7 +3698,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000010",
@@ -3706,7 +3706,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000111",
@@ -3714,7 +3714,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000211",
@@ -3722,7 +3722,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000311",
@@ -3730,7 +3730,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000412",
@@ -3738,7 +3738,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000511",
@@ -3746,7 +3746,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000611",
@@ -3754,7 +3754,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000711",
@@ -3762,7 +3762,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000000811",
@@ -3770,7 +3770,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000010001",
@@ -3778,7 +3778,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001011",
@@ -3786,7 +3786,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001112",
@@ -3794,7 +3794,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001211",
@@ -3802,7 +3802,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001311",
@@ -3810,7 +3810,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001411",
@@ -3818,7 +3818,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001511",
@@ -3826,7 +3826,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001611",
@@ -3834,7 +3834,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001710",
@@ -3842,7 +3842,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000001811",
@@ -3850,7 +3850,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000011911",
@@ -3858,7 +3858,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002011",
@@ -3866,7 +3866,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002111",
@@ -3874,7 +3874,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002211",
@@ -3882,7 +3882,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002311",
@@ -3890,7 +3890,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002410",
@@ -3898,7 +3898,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002511",
@@ -3906,7 +3906,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002611",
@@ -3914,7 +3914,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0200000002711",
@@ -3922,7 +3922,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			}],
 			"battle": [
 			{
@@ -3931,7 +3931,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092002011",
@@ -3939,7 +3939,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092003011",
@@ -3947,7 +3947,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092004011",
@@ -3955,7 +3955,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092005011",
@@ -3963,7 +3963,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092005061",
@@ -3971,7 +3971,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092006011",
@@ -3979,7 +3979,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092006061",
@@ -3987,7 +3987,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092007011",
@@ -3995,7 +3995,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092007061",
@@ -4003,7 +4003,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092008011",
@@ -4011,7 +4011,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092008061",
@@ -4019,7 +4019,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092009011",
@@ -4027,7 +4027,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			},
 			{
 				"code": "BC1-0000092009061",
@@ -4035,7 +4035,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/dscanner/digitama_c2.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/dscanner/digitama_c2.gif"
 			}]
 		}
 	},
@@ -4050,7 +4050,7 @@
 				"line2": "",
 				"line3": "",
 				"line4": "Battles fill the Connect Points bar. When the bar is full you will receive a special evolution item.",
-				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/Gaomon_vpet_dvic.gif"
+				"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/Gaomon_vpet_dvic.gif"
 			}]
 		},
 		"infrared":
@@ -4064,7 +4064,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "IC1-D067-4257-0197-0007-@F007",
@@ -4072,7 +4072,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "IC1-E067-4257-0197-0007-@F007",
@@ -4080,7 +4080,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "IC1-D577-4927-0B47-0007-@F007",
@@ -4088,7 +4088,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				}]
 			},
 			"datalink":
@@ -4100,7 +4100,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "DL2-120100030FAA>>+?-120100030FAA>>+?",
@@ -4108,7 +4108,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "DL2-1201000034AA>>+?-1201000034AA>>+?",
@@ -4116,7 +4116,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "DL2-1201000200AA>>+?-1201000200AA>>+?",
@@ -4124,7 +4124,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "DL2-1201000201AA>>+?-1201000201AA>>+?",
@@ -4132,7 +4132,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				},
 				{
 					"code": "DL2-1201000202AA>>+?-1201000202AA>>+?",
@@ -4140,7 +4140,7 @@
 					"line2": "",
 					"line3": "",
 					"line4": "",
-					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/icdatalink/digitama_c2.gif"
+					"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/icdatalink/digitama_c2.gif"
 				}]
 			}
 
@@ -4155,7 +4155,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Burpmon_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Burpmon_vpet_dtwin.gif"
 		}],
 		"liberation": [
 		{
@@ -4164,7 +4164,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Qinglongmon_L_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Qinglongmon_L_vpet_dtwin.gif"
 		},
 		{
 			"code": "IC1-C007-0407-0007-C00F-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000",
@@ -4172,7 +4172,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Burpmon_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Burpmon_vpet_dtwin.gif"
 		},
 		{
 			"code": "IC1-C007-0C07-0007-400F-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000",
@@ -4180,7 +4180,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Burpmon_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Burpmon_vpet_dtwin.gif"
 		},
 		{
 			"code": "IC1-C007-1C07-0007-300F-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000",
@@ -4188,7 +4188,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Clockmon_vpet_pen.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Clockmon_vpet_pen.gif"
 		}],
 		"revolution": [
 		{
@@ -4197,7 +4197,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Qinglongmon_R_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Qinglongmon_R_vpet_dtwin.gif"
 		},
 		{
 			"code": "IC1-C007-0607-0007-A00F-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000",
@@ -4205,7 +4205,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Burpmon_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Burpmon_vpet_dtwin.gif"
 		},
 		{
 			"code": "IC1-C007-0E07-0007-200F-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000",
@@ -4213,7 +4213,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Burpmon_vpet_dtwin.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Burpmon_vpet_dtwin.gif"
 		},
 		{
 			"code": "IC1-C007-1E07-0007-100F-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000",
@@ -4221,7 +4221,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/twin/Clockmon_vpet_pen.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/twin/Clockmon_vpet_pen.gif"
 		}]
 	},
 	"fusionloader":
@@ -4233,7 +4233,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/digitama_c2.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/digitama_c2.gif"
 		}],
 		"send": [
 		{
@@ -4242,7 +4242,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Agumon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Agumon_vpet_dv.gif"
 		},
 		{
 			"code": "FL1-D00400D4-D005020CE3-D0040FE3",
@@ -4250,7 +4250,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Aquilamon_vpet_dvic.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Aquilamon_vpet_dvic.gif"
 		},
 		{
 			"code": "FL1-D00400D4-D005020FE6-D0040FE3",
@@ -4258,7 +4258,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Ballistamon.jpg"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Ballistamon.jpg"
 		},
 		{
 			"code": "FL1-D00400D4-D005022D04-D0040FE3",
@@ -4266,7 +4266,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Devimon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Devimon_vpet_dv.gif"
 		},
 		{
 			"code": "FL1-D00400D4-D005024920-D0040FE3",
@@ -4274,7 +4274,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Guardromon_vpet_darc.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Guardromon_vpet_darc.gif"
 		}],
 		"receive": [
 		{
@@ -4283,7 +4283,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Agumon_vpet_dv.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Agumon_vpet_dv.gif"
 		},
 		{
 			"code": "FL2-D00401D5-D005030CE4-D0040ADE",
@@ -4291,7 +4291,7 @@
 			"line2": "",
 			"line3": "",
 			"line4": "",
-			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/main/images/sprites/fusionloader/Aquilamon_vpet_dvic.gif"
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/digimon/sprites/fusionloader/Aquilamon_vpet_dvic.gif"
 		}]
 	}
 

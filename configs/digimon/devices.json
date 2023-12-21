@@ -1,0 +1,140 @@
+{
+	"devices":
+	{
+		"prongs": [
+		{
+			"code": "dm",
+			"name": "Digital Monster Original",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dm.jpg",
+			"enabled": true
+		},
+		{
+			"code": "dm20",
+			"name": "Digital Monster Ver.20th",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dm20.jpg",
+			"enabled": true
+		},
+		{
+			"code": "dmx",
+			"name": "Digital Monster X Series",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dmx.jpg",
+			"enabled": true
+		},
+		{
+			"code": "dmc",
+			"name": "Digital Monster Color",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dmc.jpg",
+			"enabled": true
+		},
+		{
+			"code": "pen",
+			"name": "Digimon Pendulum Original 1998",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/pen.jpg",
+			"enabled": true
+		},
+		{
+			"code": "progress",
+			"name": "Digimon Pendulum Progress",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/progress.jpg",
+			"enabled": true
+		},
+		{
+			"code": "pencycle",
+			"name": "Digimon Pendulum Cycle",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/cycle.jpg",
+			"enabled": true
+		},
+		{
+			"code": "penx",
+			"name": "Digimon Pendulum X",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/penx.jpg",
+			"enabled": true
+		},
+		{
+			"code": "pen20",
+			"name": "Digimon Pendulum Ver.20th",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/pen20.jpg",
+			"enabled": true
+		},
+		{
+			"code": "penz",
+			"name": "Digimon Pendulum Z",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/penz.jpg",
+			"enabled": true
+		},
+		{
+			"code": "mini",
+			"name": "Digimon Mini",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/mini.gif",
+			"enabled": true
+		},
+		{
+			"code": "accel",
+			"name": "Digimon Accel",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/accel.jpg",
+			"enabled": true
+		},
+		{
+			"code": "adventure",
+			"name": "Digivice Original / 15th / Ver. Complete",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/vercomplete.jpg",
+			"enabled": true
+		},
+		{
+			"code": "d3",
+			"name": "D-3 / Ver 15th / Ver Japanese",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/d3.jpg",
+			"enabled": true
+		},
+		{
+			"code": "dscanner",
+			"name": "D-Scanner",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dscanner.jpg",
+			"enabled": true
+		},
+		{
+			"code": "icdatalink",
+			"name": "Digivice iC",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/ic.png",
+			"enabled": true
+		},
+		{
+			"code": "dcyber",
+			"name": "Digital Monster D-Cyber",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dcyber.jpg",
+			"enabled": false
+		},
+		{
+			"code": "dark",
+			"name": "D-Ark",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dark.jpg",
+			"enabled": true
+		}],
+		"infrared": [
+		{
+			"code": "icdatalink",
+			"name": "Digivice iC",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/ic.png",
+			"enabled": true
+		},
+		{
+			"code": "twin",
+			"name": "Digimon Twin",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/twin.jpg",
+			"enabled": true
+		},
+		{
+			"code": "fusionloader",
+			"name": "",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/fusionloader.png",
+			"enabled": true
+		},
+		{
+			"code": "dscanner",
+			"name": "D-Scanner",
+			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dscanner.jpg",
+			"enabled": true
+		}, ],
+		"manual": true
+	}
+}
