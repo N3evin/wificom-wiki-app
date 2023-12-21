@@ -6,97 +6,337 @@
 			"code": "dm",
 			"name": "Digital Monster Original",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dm.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "dm20",
 			"name": "Digital Monster Ver.20th",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dm20.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "dmx",
 			"name": "Digital Monster X Series",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dmx.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "dmc",
 			"name": "Digital Monster Color",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dmc.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "pen",
 			"name": "Digimon Pendulum Original 1998",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/pen.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "progress",
 			"name": "Digimon Pendulum Progress",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/progress.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "pencycle",
 			"name": "Digimon Pendulum Cycle",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/cycle.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "penx",
 			"name": "Digimon Pendulum X",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/penx.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "pen20",
 			"name": "Digimon Pendulum Ver.20th",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/pen20.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "penz",
 			"name": "Digimon Pendulum Z",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/penz.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "mini",
 			"name": "Digimon Mini",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/mini.gif",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "accel",
 			"name": "Digimon Accel",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/accel.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "adventure",
 			"name": "Digivice Original / 15th / Ver. Complete",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/vercomplete.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "d3",
 			"name": "D-3 / Ver 15th / Ver Japanese",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/d3.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "dscanner",
 			"name": "D-Scanner",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dscanner.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "icdatalink",
 			"name": "Digivice iC",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/ic.png",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "dcyber",
@@ -108,33 +348,108 @@
 			"code": "dark",
 			"name": "D-Ark",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dark.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		}],
 		"infrared": [
 		{
 			"code": "icdatalink",
 			"name": "Digivice iC",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/ic.png",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "twin",
 			"name": "Digimon Twin",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/twin.jpg",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "fusionloader",
 			"name": "",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/fusionloader.png",
-			"enabled": true
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
 		},
 		{
 			"code": "dscanner",
 			"name": "D-Scanner",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dscanner.jpg",
-			"enabled": true
-		} ],
+			"enabled": true,
+			"contents":
+			{
+				"tab1": "",
+				"tab1Single": "",
+				"tab2": "",
+				"tab2Single": "",
+				"tab3": "",
+				"tab3Single": "",
+				"tab4": "",
+				"tab4Single": "",
+				"tab5": "",
+				"tab5Single": "",
+				"tab6": "",
+				"tab6Single": ""
+			}
+		}],
 		"manual": true
 	}
 }
