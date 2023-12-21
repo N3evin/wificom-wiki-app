@@ -134,7 +134,7 @@
 			"name": "D-Scanner",
 			"image_url": "https://raw.githubusercontent.com/N3evin/wificom-wiki-app/dev/images/devices/digimon/dscanner.jpg",
 			"enabled": true
-		}, ],
+		} ],
 		"manual": true
 	}
 }
